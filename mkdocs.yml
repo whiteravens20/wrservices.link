@@ -1,6 +1,7 @@
 site_name: White Ravens Services Database
 theme:
   name: material
+  favicon: images/favicon.png
   language: pl
   icon:
     logo: material/vector-difference
