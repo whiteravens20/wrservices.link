@@ -5,6 +5,8 @@ theme:
   language: pl
   icon:
     logo: material/vector-difference
+  extra_css:
+    - stylesheets/extra.css
   palette: 
     # Palette toggle for dark mode
     - scheme: default
