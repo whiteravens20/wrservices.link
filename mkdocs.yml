@@ -10,14 +10,14 @@ theme:
       primary: blue
       accent: red
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-7
         name: Tryb nocny
     # Palette toggle for light mode
     - scheme: slate
       primary: teal
       accent: deep orange
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-4
         name: Tryb jasny
   features:
     - content.code.annotate
@@ -32,3 +32,6 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+  plugins:
+    - typeset
+    - search
