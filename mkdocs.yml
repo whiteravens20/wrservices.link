@@ -1,14 +1,34 @@
 site_name: White Ravens Services Database
 theme:
   name: material
+  language: pl
+  icon:
+    logo: material/vector-difference
   palette: 
     # Palette toggle for dark mode
     - scheme: default
+      primary: blue
+      accent: red
       toggle:
         icon: material/brightness-4
         name: Tryb nocny
     # Palette toggle for light mode
     - scheme: slate
+      primary: teal
+      accent: deep orange
       toggle:
         icon: material/brightness-7 
         name: Tryb jasny
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
