@@ -1,4 +1,4 @@
-# wrservices.link
+# White Ravens Services Documentation Site
 
 ![Static Badge](https://img.shields.io/badge/Discord_PL-White_Ravens-blue?logo=discord&labelColor=CACFD2)
 
