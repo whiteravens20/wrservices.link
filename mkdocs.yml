@@ -61,3 +61,12 @@ extra:
     - icon: simple/kofi
       link: https://ko-fi.com/N4N4E0LR2
 copyright: Copyright &copy; 2024 White Ravens 2.0
+
+nav:
+  - White Ravens Home: https://whiteravens.net
+  - Dokumentacja:
+    - 'Strona Główna':
+      - 'Strona Główna': index.md
+      - 'Discord': discord.md
+  - Status Usług: https://status.whiteravens.net
+  - GitHub: https://github.com/whiteravens20
