@@ -5,8 +5,6 @@ theme:
   language: pl
   icon:
     logo: material/vector-difference
-  extra_css:
-    - stylesheets/extra.css
   palette: 
     # Palette toggle for dark mode
     - scheme: default
@@ -38,13 +36,28 @@ theme:
   plugins:
     - typeset
     - search
-  markdown_extensions:
-    - admonition
-    - pymdownx.details
-    - pymdownx.superfences
-    - attr_list
-    - toc:
-        permalink: true
-    - pymdownx.emoji:
-        emoji_index: !!python/name:material.extensions.emoji.twemoji
-        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/5JMk8Z4
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/whiteravensnet
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/groups/whiteravensgaming
+    - icon: fontawesome/brands/github 
+      link: https://github.com/whiteravens20
+    - icon: simple/kofi
+      link: https://ko-fi.com/N4N4E0LR2
+copyright: Copyright &copy; 2024 White Ravens 2.0
