@@ -12,14 +12,14 @@ theme:
       accent: red
       toggle:
         icon: material/brightness-7
-        name: Tryb nocny
+        name: Tryb dzienny
     # Palette toggle for light mode
     - scheme: slate
       primary: teal
       accent: deep orange
       toggle:
         icon: material/brightness-4
-        name: Tryb jasny
+        name: Tryb nocny
   features:
     - content.code.annotate
     - content.code.copy
