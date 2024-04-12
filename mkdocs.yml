@@ -1,3 +1,14 @@
 site_name: White Ravens Services Database
 theme:
   name: material
+  palette: 
+    # Palette toggle for dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Tryb nocny
+    # Palette toggle for light mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7 
+        name: Tryb jasny
