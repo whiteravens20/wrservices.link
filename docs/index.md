@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+icon:octicons/book-16
+# Dokumentacja White Ravens Services
+## Projekty White Ravens
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Na tej stronie znajdziesz informacje na temat projektów White Ravens. Dokumentacja pomocy ułatwi korzystanie z Naszych usług i serwerów. Śledź postępy projektu **White Ravens 2.0** [tutaj](https://github.com/orgs/whiteravens20/projects/8).
 
-## Commands
+## Wolne oprogramowanie
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Idea wolnego, zdecentralizowanego i darmowego internetu towarzyszy Nam podczas tworzenia Naszych projektów. Wszędzie gdzie to możliwe używamy otwartego kodu. Zachęcamy do zapoznania się z [GitHub Collaborative coding](https://github.com/).
 
-## Project layout
+!!! info "Odnośniki"
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    [Wolne Oprogramowanie](https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie)
+
+    [Open Source Initiative](https://opensource.org/)
+
+    [What is open source](https://www.redhat.com/en/topics/open-source/what-is-open-source)
