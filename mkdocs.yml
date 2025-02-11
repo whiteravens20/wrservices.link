@@ -52,8 +52,8 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/5JMk8Z4
-    - icon: fontawesome/brands/facebook 
-      link: https://www.facebook.com/whiteravensnet
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@whiteravens
     - icon: fontawesome/brands/steam
       link: https://steamcommunity.com/groups/whiteravensgaming
     - icon: fontawesome/brands/github 
