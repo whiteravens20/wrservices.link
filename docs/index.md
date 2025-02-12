@@ -2,7 +2,13 @@ icon:octicons/book-16
 # Dokumentacja White Ravens Services
 ## Projekty White Ravens
 
-Na tej stronie znajdziesz informacje na temat projektów White Ravens. Dokumentacja pomocy ułatwi korzystanie z Naszych usług i serwerów. Śledź postępy projektu **White Ravens 2.0** [tutaj](https://github.com/orgs/whiteravens20/projects/8).
+Aby zawsze być na bieżąco, zapraszamy do odwiedzenia strony [statusów](https://status.wrservices.link), gdzie regularnie publikujemy aktualizacje dotyczące działania naszych usług.
+
+Dodatkowo, cały kod źródłowy naszych projektów jest dostępny na GitHub – zarówno na oficjalnych kontach projektów z których korzystamy, jak i na profilu grupy. Dzięki temu każdy może zapoznać się z naszą pracą, a także wnieść swój wkład w rozwój projektów.
+
+Śledź postępy [projektu](https://github.com/orgs/whiteravens20/projects/8) **White Ravens 2.0**
+
+Jeśli doceniasz nasze wysiłki i chcesz przyczynić się do dalszego rozwoju naszej inicjatywy, zachęcamy do wsparcia grupy poprzez [donacje](https://ko-fi.com/N4N4E0LR2). Twoje wsparcie pomoże nam utrzymać i rozwijać nasze usługi, czyniąc je jeszcze lepszymi i bardziej dostępnymi dla społeczności.
 
 ## Wolne oprogramowanie
 
