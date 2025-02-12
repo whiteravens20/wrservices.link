@@ -50,17 +50,17 @@ extra_css:
   - stylesheets/extra.css
 extra:
   social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/5JMk8Z4
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@whiteravens
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/5JMk8Z4
     - icon: fontawesome/brands/steam
       link: https://steamcommunity.com/groups/whiteravensgaming
     - icon: fontawesome/brands/github 
       link: https://github.com/whiteravens20
     - icon: simple/kofi
       link: https://ko-fi.com/N4N4E0LR2
-copyright: Copyright &copy; 2024 White Ravens 2.0
+copyright: Copyright &copy; 2024-2025 White Ravens 2.0
 
 nav:
   - White Ravens Home: https://whiteravens.net
@@ -68,5 +68,6 @@ nav:
     - 'Strona Główna':
       - 'Strona Główna': index.md
       - 'Discord': discord.md
-  - Status Usług: https://status.whiteravens.net
+  - Dashboard: https://home.wrservices.link
+  - Status Usług: https://status.wrservices.link
   - GitHub: https://github.com/whiteravens20
