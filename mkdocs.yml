@@ -74,6 +74,7 @@ nav:
     - 'Usługi White Ravens':
       - 'Metawyszukiwarka': search.md
       - 'Element Chat': chat.md
+      - 'Filesharing': fileshare.md
   - Dashboard: https://home.wrservices.link
   - Status Usług: https://status.wrservices.link
   - GitHub: https://github.com/whiteravens20
