@@ -71,8 +71,8 @@ nav:
       - 'Discord': discord.md
       - 'Mastodon': mastodon.md
       - 'Steam': steam.md
-    - 'SERVICES':
-      - 'Usługi': services.md
+    - 'Usługi White Ravens':
+      - 'Chat': chat.md
   - Dashboard: https://home.wrservices.link
   - Status Usług: https://status.wrservices.link
   - GitHub: https://github.com/whiteravens20
