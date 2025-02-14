@@ -4,6 +4,10 @@ icon:octicons/book-16
 
 Aby zawsze być na bieżąco, zapraszamy do odwiedzenia strony [statusów](https://status.wrservices.link), gdzie regularnie publikujemy aktualizacje dotyczące działania naszych usług.
 
+!!! tip
+
+    [White Ravens Dashboard](https://home.wrservices.link) to miejsce, w którym znajdziesz linki do naszych aplikacji oraz rozwiązań, które lubimy i polecamy.
+
 Dodatkowo, cały kod źródłowy naszych projektów jest dostępny na GitHub – zarówno na oficjalnych kontach projektów z których korzystamy, jak i na profilu grupy. Dzięki temu każdy może zapoznać się z naszą pracą, a także wnieść swój wkład w rozwój projektów.
 
 Śledź postępy [projektu](https://github.com/orgs/whiteravens20/projects/8) **White Ravens 2.0**
