@@ -4,19 +4,19 @@ Discord to platforma komunikacyjna umożliwiająca prowadzenie rozmów głosowyc
 
 ## Jak korzystać z Discorda
 
-**Rejestracja i logowanie:**  
+- **Rejestracja i logowanie:**  
 Załóż konto na [Discord](https://discord.com/) lub zaloguj się, jeśli już je posiadasz.
 
-**Dołączanie do serwera White Ravens:**  
+- **Dołączanie do serwera White Ravens:**  
 Zaproszenie do naszej społeczności. Kliknij w link zaproszenia, aby dołączyć do serwera.
 
 !!! tip "Discord White Ravens"
     [Link zaproszeniowy](https://discord.gg/5JMk8Z4)
 
-**Poruszanie się po serwerze:**  
+- **Poruszanie się po serwerze:**  
 Zapoznaj się z kanałami tekstowymi i głosowymi. Każdy kanał dedykowany jest określonym tematom, co ułatwia komunikację i organizację spotkań.
 
-**Komunikacja:**  
+- **Komunikacja:**  
 Wykorzystuj czaty, rozmowy głosowe i wideokonferencje, aby utrzymywać kontakt z członkami społeczności oraz zadawać pytania dotyczące gier i serwisów WR.
 
 ## Oficjalny poradnik
