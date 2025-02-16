@@ -1,6 +1,16 @@
+---
+tags:
+  - github
+  - bugi
+  - pomoc
+---
+
 # Jak zgłaszać błędy na GitHub - Pełny Tutorial
 
 Repozytoria projektów **White Ravens** są przechowywane na GitHub, gdzie społeczność ma możliwość zgłaszania błędów oraz sugestii dotyczących projektów. W przypadku pytań lub problemów, błędy można również zgłaszać na naszym serwerze *Discord*, gdzie otrzymasz wsparcie od członków społeczności i deweloperów.
+
+!!! tip "Repozytoria projektów White Ravens"
+    [GitHub White Ravens](https://github.com/orgs/whiteravens20/repositories)
 
 W tym przewodniku znajdziesz krok po kroku, jak zgłaszać błędy (issues) na GitHub, aby skutecznie pomóc deweloperom w identyfikacji i naprawie problemów.
 
@@ -19,6 +29,9 @@ W tym przewodniku znajdziesz krok po kroku, jak zgłaszać błędy (issues) na G
   
 - **Upewnij się, że błąd dotyczy tego projektu:**  
   Przed zgłoszeniem sprawdź, czy zgłaszany problem faktycznie dotyczy danego projektu.
+
+!!! info
+    Nie każda usługa White Ravens posiada własne repozytorium – niektóre z nich to self-hostowane aplikacje rozwijane w modelu open source. W takim przypadku należy odnieść się do odpowiedniego repozytorium danego projektu. Jeśli nie masz pewności, gdzie zgłosić błąd, zapytaj na *Discord* lub otwórz issue w naszym repozytorium: [whiteravens20/wrservices.link](https://github.com/whiteravens20/wrservices.link). Błędy związane z usługami White Ravens powinny być zgłaszane właśnie w tym repozytorium.
 
 ## 3. Sprawdzenie istniejących zgłoszeń
 
@@ -39,6 +52,10 @@ W tym przewodniku znajdziesz krok po kroku, jak zgłaszać błędy (issues) na G
 - **Tytuł zgłoszenia:**  
   Wprowadź krótki, ale precyzyjny tytuł opisujący problem (np. "Błąd przy zapisywaniu ustawień użytkownika").
 
+!!! success
+    Możesz skopiować poniższy kod i wkleić go przy zgłaszaniu błędu. GitHub automatycznie sformatuje go za pomocą [Markdown](https://pl.wikipedia.org/wiki/Markdown). Nie zapomnij uzupełnić odpowiednich treści.
+
+``` title="Treść zgłoszenia"
 - **Opis błędu:**  
   W treści zgłoszenia postaraj się zamieścić następujące informacje:
   - **Kroki do reprodukcji błędu:**  
@@ -54,6 +71,7 @@ W tym przewodniku znajdziesz krok po kroku, jak zgłaszać błędy (issues) na G
     - Wersja oprogramowania projektu
   - **Dodatkowe informacje:**  
     Załącz zrzuty ekranu, logi błędów, linki lub inne materiały, które mogą pomóc w diagnozie problemu.
+```
 
 ### Krok 4.3: Dodawanie etykiet i przypisywanie
 

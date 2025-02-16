@@ -1,3 +1,11 @@
+---
+tags:
+  - mastodon
+  - social
+  - prywatnosc
+  - pomoc
+---
+
 # Mastodon
 
 Mastodon to zdecentralizowana platforma mikroblogowa, która umożliwia użytkownikom publikowanie krótkich wiadomości (tzw. "toots") oraz nawiązywanie kontaktów w ramach federacyjnego ekosystemu. Dzięki swojej architekturze, Mastodon stanowi alternatywę dla tradycyjnych, scentralizowanych mediów społecznościowych, oferując większą kontrolę nad danymi i prywatnością.
