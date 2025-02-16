@@ -1,3 +1,10 @@
+---
+tags:
+  - pastebin
+  - self-hosted
+  - prywatnosc
+---
+
 # White Ravens PasteBin
 
 White Ravens PasteBin to narzędzie do udostępniania tekstu, oparte na [PrivateBin](https://privatebin.info/). Umożliwia ono bezpieczne dzielenie się fragmentami kodu, notatkami czy innymi informacjami, zapewniając pełną kontrolę nad prywatnością danych.

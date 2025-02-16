@@ -1,3 +1,10 @@
+---
+tags:
+  - discord
+  - social
+  - pomoc
+---
+
 # Discord
 
 Discord to platforma komunikacyjna umożliwiająca prowadzenie rozmów głosowych, tekstowych oraz wideo. Jest on główną bazą grupy White Ravens, gdzie odbywają się nasze spotkania, sesje gamingowe oraz dyskusje na temat gier i serwisów WR.

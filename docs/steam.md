@@ -1,3 +1,9 @@
+---
+tags:
+  - steam
+  - social
+---
+
 # Steam
 
 Steam to jedna z najpopularniejszych platform cyfrowej dystrybucji gier, która nie tylko umożliwia zakup i instalację ulubionych tytułów, ale także oferuje rozbudowane funkcje społecznościowe. Dzięki grupom i społecznościom użytkownicy mogą dzielić się swoimi doświadczeniami, wymieniać się informacjami oraz organizować wspólne sesje rozgrywki.

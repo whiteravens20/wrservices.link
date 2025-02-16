@@ -1,3 +1,10 @@
+---
+tags:
+  - chat
+  - self-hosted
+  - prywatnosc
+---
+
 # Chat White Ravens
 
 Chat White Ravens to prywatny serwer komunikacyjny oparty na projekcie [Element Web](https://element.io/), który wykorzystuje otwarty protokół Matrix. Dzięki temu rozwiązaniu nasza społeczność ma możliwość prowadzenia bezpiecznych i szyfrowanych rozmów w czasie rzeczywistym, zarówno na komputerach, jak i urządzeniach mobilnych.

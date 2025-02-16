@@ -1,3 +1,10 @@
+---
+tags:
+  - wyszukiwarka
+  - self-hosted
+  - prywatnosc
+---
+
 # White Ravens Search
 
 White Ravens Search to projekt oparty na [searxng](https://github.com/searxng/searxng) – otwartoźródłowym silniku wyszukiwania, który stawia na prywatność użytkowników oraz niezależność w przeszukiwaniu zasobów internetu. Dzięki niemu możesz korzystać z wyników pochodzących z wielu różnych źródeł, bez obaw o śledzenie Twoich działań.
