@@ -82,6 +82,7 @@ nav:
     - 'Strona Główna':
       - 'Strona Główna': index.md
       - 'Zgłaszanie błędow': bugs.md
+      - 'Tagi': tags.md
     - 'Social':
       - 'Discord': discord.md
       - 'Mastodon': mastodon.md
