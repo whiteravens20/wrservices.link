@@ -36,13 +36,27 @@ theme:
   plugins:
     - typeset
     - search
+    - tags
 markdown_extensions:
-  - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
   - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -67,6 +81,8 @@ nav:
   - Dokumentacja:
     - 'Strona Główna':
       - 'Strona Główna': index.md
+      - 'Zgłaszanie błędow': bugs.md
+      - 'Tagi': tags.md
     - 'Social':
       - 'Discord': discord.md
       - 'Mastodon': mastodon.md
