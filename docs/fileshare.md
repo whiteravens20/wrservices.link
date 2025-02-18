@@ -46,7 +46,7 @@ Poniżej przedstawiamy instrukcję krok po kroku:
    Po skonfigurowaniu wszystkich opcji, kliknij "Prześlij", aby rozpocząć proces transferu pliku na serwer.
 
 !!! warning "Prawa autorskie"
-    Serwis **White Ravens Fileshare** nie zgadza się na udostępnianie plików naruszających prawa autorskie. Przed skorzystaniem z serwisu przeczytaj Nasz [imprint](https://fileshare.wrservices.link/imprint).
+    Serwis **White Ravens Fileshare** {==nie zgadza się==} na udostępnianie plików naruszających prawa autorskie. Przed skorzystaniem z serwisu przeczytaj Nasz [imprint](https://fileshare.wrservices.link/imprint).
 
 ### Krok 3: Udostępnianie i pobieranie plików
 1. **Generowanie linku udostępniania:**  
