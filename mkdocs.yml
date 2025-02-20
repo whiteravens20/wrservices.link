@@ -1,6 +1,7 @@
 site_name: White Ravens Services Documentation
 theme:
   name: material
+  custom_dir: overrides
   favicon: images/favicon.png
   language: pl
   icon:
@@ -74,6 +75,9 @@ extra:
       link: https://github.com/whiteravens20
     - icon: simple/kofi
       link: https://ko-fi.com/N4N4E0LR2
+  analytics:
+    provider: custom
+#    property:
 copyright: Copyright &copy; 2024-2025 White Ravens 2.0
 
 nav:
