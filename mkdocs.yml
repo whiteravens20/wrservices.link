@@ -78,6 +78,9 @@ extra:
   analytics:
     provider: custom
 #    property:
+  status:
+    wrmembers: Wewnętrzna usługa White Ravens
+    new: Ostatnio dodane
 copyright: Copyright &copy; 2024-2025 White Ravens 2.0
 
 nav:
