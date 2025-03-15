@@ -1,3 +1,8 @@
+---
+tags:
+  - bezpieczenstwo
+---
+
 # Bezpieczeństwo Haseł: Kompleksowy Przewodnik
 
 W dzisiejszym cyfrowym świecie hasła stanowią pierwszą linię obrony przed nieautoryzowanym dostępem do naszych kont i danych. Niniejszy przewodnik wyczerpująco omawia zasady tworzenia silnych haseł, rolę menedżerów haseł oraz dlaczego stosowanie odpowiednich metod zabezpieczenia jest {==niezbędne==}.
