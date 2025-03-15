@@ -81,6 +81,7 @@ extra:
   status:
     wrmembers: Wewnętrzna usługa White Ravens
     new: Ostatnio dodane
+    deprecated: Wymaga aktualizacji
 copyright: Copyright &copy; 2024-2025 White Ravens 2.0
 
 nav:
