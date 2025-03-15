@@ -86,6 +86,7 @@ nav:
     - 'Strona Główna':
       - 'Strona Główna': index.md
       - 'Zgłaszanie błędow': bugs.md
+      - 'Bezpieczeństwo haseł': passwordsec.md
       - 'Tagi': tags.md
     - 'Social':
       - 'Discord': discord.md
