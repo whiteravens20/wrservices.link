@@ -1,6 +1,7 @@
 ---
 tags:
   - bezpieczenstwo
+status: new
 ---
 
 # Bezpieczeństwo Haseł: Kompleksowy Przewodnik
