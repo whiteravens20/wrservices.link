@@ -78,6 +78,10 @@ extra:
   analytics:
     provider: custom
 #    property:
+  status:
+    wrmembers: Wewnętrzna usługa White Ravens
+    new: Ostatnio dodane
+    deprecated: Wymaga aktualizacji
 copyright: Copyright &copy; 2024-2025 White Ravens 2.0
 
 nav:
@@ -86,6 +90,7 @@ nav:
     - 'Strona Główna':
       - 'Strona Główna': index.md
       - 'Zgłaszanie błędow': bugs.md
+      - 'Bezpieczeństwo haseł': passwordsec.md
       - 'Tagi': tags.md
     - 'Social':
       - 'Discord': discord.md
