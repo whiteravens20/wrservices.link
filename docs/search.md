@@ -9,7 +9,7 @@ tags:
 
 White Ravens Search to projekt oparty na [searxng](https://github.com/searxng/searxng) – otwartoźródłowym silniku wyszukiwania, który stawia na prywatność użytkowników oraz niezależność w przeszukiwaniu zasobów internetu. Dzięki niemu możesz korzystać z wyników pochodzących z wielu różnych źródeł, bez obaw o śledzenie Twoich działań.
 
-!!! tip
+!!! tip "Link"
     [White Ravens SearXNG](https://search.whiteravens.net/)
 
 ## Co to jest searxng?
@@ -54,9 +54,6 @@ Poniżej znajdziesz instrukcje, jak skonfigurować searxng jako domyślną wyszu
 6. Po dodaniu, kliknij przycisk z trzema kropkami obok nowej wyszukiwarki i wybierz **Ustaw jako domyślną**.
 
 ### Mozilla Firefox
-
-!!! tip
-    White Ravens poleca przeglądarkę [Firefox](https://www.mozilla.org/en-US/firefox/features/). Więcej informacji o Mozilli znajdziesz [tutaj](https://www.mozilla.org/en-US/about/).
 
 1. Otwórz przeglądarkę i przejdź do **Ustawień** (menu → Opcje/Preferencje).
 2. Przejdź do zakładki **Wyszukiwarka**.

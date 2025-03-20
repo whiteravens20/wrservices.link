@@ -4,7 +4,7 @@ icon:octicons/book-16
 
 Aby zawsze być na bieżąco, zapraszamy do odwiedzenia strony [statusów](https://status.wrservices.link), gdzie regularnie publikujemy aktualizacje dotyczące działania naszych usług.
 
-!!! tip
+!!! tip "Spis usług White Ravens"
 
     [White Ravens Dashboard](https://home.wrservices.link) to miejsce, w którym znajdziesz linki do naszych aplikacji oraz rozwiązań, które lubimy i polecamy.
 

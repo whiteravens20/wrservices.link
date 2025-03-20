@@ -9,7 +9,7 @@ tags:
 
 White Ravens FileShare to serwis umożliwiający bezpieczne i wygodne udostępnianie plików, działający na bazie rozwiązania [Pingvin Share](https://github.com/stonith404/pingvin-share). Jest to platforma stworzona z myślą o użytkownikach, którzy cenią sobie prywatność i kontrolę nad swoimi danymi.
 
-!!! tip
+!!! tip "Link"
     [White Ravens FileShare](https://fileshare.wrservices.link/)
 
 ## Co to jest Pingvin Share?

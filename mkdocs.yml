@@ -91,7 +91,7 @@ nav:
       - 'Strona Główna': index.md
       - 'Zgłaszanie błędow': bugs.md
       - 'Bezpieczeństwo haseł': passwordsec.md
-      - 'Tagi': tags.md
+#      - 'Tagi': tags.md
     - 'Social':
       - 'Discord': discord.md
       - 'Mastodon': mastodon.md
@@ -102,6 +102,7 @@ nav:
       - 'Filesharing': fileshare.md
       - 'Pastebin': pastebin.md
       - 'Invidious': invidious.md
+      - 'Habitica': habitica.md
   - Dashboard: https://home.wrservices.link
   - Status Usług: https://status.wrservices.link
   - GitHub: https://github.com/whiteravens20

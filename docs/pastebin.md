@@ -9,7 +9,7 @@ tags:
 
 White Ravens PasteBin to narzędzie do udostępniania tekstu, oparte na [PrivateBin](https://privatebin.info/). Umożliwia ono bezpieczne dzielenie się fragmentami kodu, notatkami czy innymi informacjami, zapewniając pełną kontrolę nad prywatnością danych.
 
-!!! tip
+!!! tip "Link"
     [White Ravens PasteBin](https://pastebin.wrservices.link/)
 
 ## Co to jest PrivateBin?

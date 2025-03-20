@@ -10,7 +10,7 @@ tags:
 
 White Ravens Invidious to usługa oparta na projekcie [Invidious](https://invidious.io/) – otwartoźródłowym, alternatywnym interfejsie do przeglądania serwisu YouTube. Dzięki niemu możesz oglądać filmy z YouTube bez bezpośredniego kontaktu z infrastrukturą Google, co przekłada się na większą prywatność oraz brak śledzenia Twoich aktywności.
 
-!!! tip
+!!! tip "Link"
     [White Ravens Invidious](https://invid.wrservices.link/)
 
 ## Co to jest Invidious?
