@@ -55,9 +55,6 @@ Poniżej znajdziesz instrukcje, jak skonfigurować searxng jako domyślną wyszu
 
 ### Mozilla Firefox
 
-!!! tip
-    White Ravens poleca przeglądarkę [Firefox](https://www.mozilla.org/en-US/firefox/features/). Więcej informacji o Mozilli znajdziesz [tutaj](https://www.mozilla.org/en-US/about/).
-
 1. Otwórz przeglądarkę i przejdź do **Ustawień** (menu → Opcje/Preferencje).
 2. Przejdź do zakładki **Wyszukiwarka**.
 3. Kliknij **Znajdź więcej wyszukiwarek** lub **Dodaj wyszukiwarkę** (w zależności od wersji przeglądarki).
