@@ -91,7 +91,7 @@ nav:
       - 'Strona Główna': index.md
       - 'Zgłaszanie błędow': bugs.md
       - 'Bezpieczeństwo haseł': passwordsec.md
-      - 'Tagi': tags.md
+#      - 'Tagi': tags.md
     - 'Social':
       - 'Discord': discord.md
       - 'Mastodon': mastodon.md
