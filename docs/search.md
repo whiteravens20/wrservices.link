@@ -9,7 +9,7 @@ tags:
 
 White Ravens Search to projekt oparty na [searxng](https://github.com/searxng/searxng) – otwartoźródłowym silniku wyszukiwania, który stawia na prywatność użytkowników oraz niezależność w przeszukiwaniu zasobów internetu. Dzięki niemu możesz korzystać z wyników pochodzących z wielu różnych źródeł, bez obaw o śledzenie Twoich działań.
 
-!!! tip
+!!! tip "Link"
     [White Ravens SearXNG](https://search.whiteravens.net/)
 
 ## Co to jest searxng?

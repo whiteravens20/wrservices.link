@@ -44,7 +44,7 @@ Element Web łączy się z prywatnym serwerem Matrix, który odpowiada za:
 - **Rejestracja:**  
   Odwiedź stronę logowania Element Web na naszym prywatnym serwerze i załóż nowe konto, korzystając z adresu e-mail lub innej preferowanej metody rejestracji.
 
-!!! tip
+!!! tip "Link"
     [Chat White Ravens](https://chat.wrservices.link/)
 
 - **Konfiguracja profilu:**  
