@@ -73,7 +73,7 @@ W dzisiejszym cyfrowym świecie hasła stanowią pierwszą linię obrony przed n
 
 ### Jak wybrać dobrego menedżera haseł?
 
-!!! tip
+!!! tip "Rekomendacja"
     White Ravens poleca menedżer haseł [Bitwarden](https://bitwarden.com/).
 
 - **Bezpieczeństwo:**  
