@@ -1,0 +1,58 @@
+name: Bug Report
+description: Report a service bug
+labels: ["bug"]
+assignees: ["pavlojs"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the sections below to help everyone identify and fix the bug. If the issue is related to a specific project or service we use, please check the related repository.
+  - type: textarea
+    id: description
+    attributes:
+      label: Provide a description of the issue
+      placeholder: Describe the problem you're experiencing (e.g., "When I click here, this happens").
+    validations:
+      required: true
+  - type: checkboxes
+    id: services
+    attributes:
+      label: Please indicate the service this is associated with by selecting the appropriate option (select nothing if it doesn't apply).
+      options:
+        - label: Search engine
+        - label: Element chat
+        - label: Pastebin
+        - label: Filesharing
+        - label: Invidious
+        - label: Habitica
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce the issue
+      placeholder: |
+        1. Navigate to page X
+        2. Click on [button/link]
+        3. Observe the unexpected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What was the expected result?
+      placeholder: Describe what you expected to happen (e.g., "I expected the page to load without errors")
+  - type: checkboxes
+    id: extra
+    attributes:
+      label: Extra checks
+      options:
+        - label: I have searched the existing issues
+          required: true
+        - label: I have checked the documentation
+          required: true
+        - label: I have checked the related repositories for existing issues
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for reporting this issue!** We will review it and get back to you as soon as possible.
+        If you need more help with creating a bug report, please join us on [Discord](https://discord.gg/5JMk8Z4) and check our documentation - [how to report an issue (PL)](https://wrservices.link/bugs).

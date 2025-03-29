@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions
+    url: https://discord.gg/5JMk8Z4
+    about: You can join us on Discord
+  - name: How to report an issue
+    url: https://wrservices.link/bugs
+    about: Our tips about reporting an issue (PL)
+  - name: Service not available
+    url: https://status.wrservices.link
+    about: Before opening a new issue, please make sure you have checked the status page to check service availability
