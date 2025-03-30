@@ -20,6 +20,7 @@ body:
       label: Related service
       description: Please indicate the service this is associated with by selecting the appropriate option (select 'None' if it doesn't apply).
       options:
+        - None
         - Search engine
         - Element chat
         - Pastebin
