@@ -26,8 +26,6 @@ body:
       options:
         - label: I have searched the existing issues related to documentation
           required: true
-        - label: I have checked the documentation and update is required
-          required: true
   - type: markdown
     attributes:
       value: |

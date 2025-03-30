@@ -1,6 +1,6 @@
-name: New Feature/Service Request
+name: New Feature / Service Request
 description: Suggest or request a new feature or service
-labels: ["enhancement"]
+type: "Feature"
 body:
   - type: markdown
     attributes:
