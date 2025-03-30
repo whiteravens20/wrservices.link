@@ -50,12 +50,12 @@ Element Web łączy się z prywatnym serwerem Matrix, który odpowiada za:
 ### Krok 2: Logowanie na różnych urządzeniach
 
 #### Na komputerze
-- Otwórz przeglądarkę internetową i przejdź do interfejsu Element Web.
+- Otwórz przeglądarkę internetową i przejdź do [naszego interfejsu](https://chat.wrservices.link/) Element Web.
 - Wprowadź dane logowania i rozpocznij korzystanie z chatu.
 
 #### Na smartfonie lub tablecie
-- Pobierz dedykowaną aplikację Element (dostępną w sklepach Google Play lub App Store) lub użyj przeglądarki mobilnej.
-- Zaloguj się, wpisując swoje dane, a aplikacja zsynchronizuje wszystkie rozmowy.
+- Pobierz dedykowaną aplikację Element (dostępną w sklepach [Google Play](https://play.google.com/store/apps/details?id=im.vector.app) lub [App Store](https://apps.apple.com/us/app/element-messenger/id1083446067)) lub użyj przeglądarki mobilnej.
+- Zaloguj się, wpisując swoje dane, jako serwer ustaw `matrix.wrservices.link`, a aplikacja zsynchronizuje wszystkie rozmowy.
 
 ### Krok 3: Korzystanie z funkcji chatu
 - **Rozpoczynanie rozmów:**  
