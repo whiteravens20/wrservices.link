@@ -43,43 +43,34 @@ W tym przewodniku znajdziesz krok po kroku, jak zgłaszać błędy (issues) na G
 
 ## 4. Utworzenie nowego zgłoszenia (Issue)
 
+!!! tip "Język na GitHub"
+    Preferowanym językiem zgłaszania błędów i komunikacji na GitHub jest język angielski, ze względu na globalną społeczność. Oczywiście, nie zabrania się używania innych języków.
+
 ### Krok 4.1: Rozpocznij zgłoszenie
 
-- Kliknij przycisk **New Issue**, który zazwyczaj znajduje się w górnej części zakładki Issues.
+- Kliknij przycisk ***New Issue***, który zazwyczaj znajduje się w górnej części zakładki Issues.
 
 ### Krok 4.2: Wypełnij formularz zgłoszenia
 
 - **Tytuł zgłoszenia:**  
   Wprowadź krótki, ale precyzyjny tytuł opisujący problem (np. "Błąd przy zapisywaniu ustawień użytkownika").
 
-!!! success "Wzór zgłaszania błędów"
-    Możesz skopiować poniższy kod i wkleić go przy zgłaszaniu błędu. GitHub automatycznie sformatuje go za pomocą [Markdown](https://pl.wikipedia.org/wiki/Markdown). Nie zapomnij uzupełnić odpowiednich treści.
+!!! success "Szablony"
+    Repozytorium [whiteravens20/wrservices.link](https://github.com/whiteravens20/wrservices.link) posiada szablony zgłaszania błędów i proponowania usprawnień. Gotowe szablony pomogą Ci w utworzeniu odpowiedniego zgłoszenia :rocket:
 
-``` title="Treść zgłoszenia"
-- **Opis błędu:**  
-  Tutaj krótki opis błędu / wynik zapytania.
-  - **Kroki do reprodukcji błędu:**  
-    Opisz krok po kroku, jak odtworzyć problem.
-  - **Oczekiwane zachowanie:**  
-    Wyjaśnij, co powinno się wydarzyć, gdy system działa poprawnie.
-  - **Rzeczywiste zachowanie:**  
-    Opisz, co się dzieje w rzeczywistości.
-  - **Środowisko:**  
-    Podaj informacje o środowisku, takie jak:
-    - System operacyjny (np. Windows, macOS, Linux)
-    - Wersja przeglądarki lub aplikacji
-    - Wersja oprogramowania projektu
-  - **Dodatkowe informacje:**  
-    Załącz zrzuty ekranu, logi błędów, linki lub inne materiały, które mogą pomóc w diagnozie problemu.
-```
-
-### Krok 4.3: Dodawanie etykiet i przypisywanie
-
-- **Etykiety (Labels):**  
-  Jeśli repozytorium korzysta z etykiet, wybierz odpowiednie tagi (np. `bug`, `high priority`, `needs investigation`).
+### Krok 4.3: Wybór szablonu  
+- **Zgłaszając błąd (*New issue*) wybierz jedną z dostępnych opcji:**
+    - ***Bug Report*** (zgłoś błąd).
+    - ***Documentation Issue*** (zgłoś błędy w dokumentacji lub zasugeruj zmiany).
+    - ***New Feature / Service Request*** (zaproponuj nowe opcje i usługi).  
   
-- **Przypisywanie (Assignees):**  
-  Jeśli masz możliwość przypisania zgłoszenia do konkretnego dewelopera lub zespołu, wykonaj tę czynność zgodnie z zaleceniami projektu.
+    Możesz wybrać opcję ***Blank issue*** jeśli zgłoszenie nie pasuje do żadnego z szablonów.
+
+- **Wypełnij szablon:**  
+  Opisz swój błąd zgodnie z wytycznymi szablonu.
+
+- ***Pozostałe opcje:***  
+  Przed wybraniem szablonu możesz skorzystać z odnośników pomocniczych (*Discord, strona statusu, link do dokumentacji pomocy*).
 
 ### Krok 4.4: Przegląd i wysłanie zgłoszenia
 
