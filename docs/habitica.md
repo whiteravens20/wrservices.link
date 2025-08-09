@@ -4,7 +4,6 @@ tags:
   - produktywnosc
   - social
   - pomoc
-status: new
 ---
 
 # White Ravens Habitica
