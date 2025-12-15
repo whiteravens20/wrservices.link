@@ -3,11 +3,15 @@ tags:
   - udostepnianie plikow
   - self-hosted
   - prywatnosc
+status: deprecated
 ---
 
 # White Ravens FileShare
 
 White Ravens FileShare to serwis umożliwiający bezpieczne i wygodne udostępnianie plików, działający na bazie rozwiązania [Pingvin Share](https://github.com/stonith404/pingvin-share). Jest to platforma stworzona z myślą o użytkownikach, którzy cenią sobie prywatność i kontrolę nad swoimi danymi.
+
+!!! bug "Zakończenie rozwoju obecnego systemu"
+    Obecnie wykorzystywany system [nie jest już rozwijany](https://github.com/stonith404/pingvin-share/issues/857) ani wspierany przez jego twórców. W związku z tym pracujemy nad [przebudową](https://github.com/whiteravens20/wrservices.link/issues/41) aktualnej aplikacji oraz silnika odpowiedzialnego za udostępnianie plików. Zmiany mają na celu zapewnienie dalszego rozwoju, bezpieczeństwa oraz możliwości rozbudowy systemu w przyszłości.
 
 !!! tip "Link"
     [White Ravens FileShare](https://fileshare.wrservices.link/)
