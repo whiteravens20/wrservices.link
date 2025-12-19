@@ -14,7 +14,7 @@ White Ravens FileShare to serwis umożliwiający bezpieczne i wygodne udostępni
     Obecnie wykorzystywany system [nie jest już rozwijany](https://github.com/stonith404/pingvin-share/issues/857) ani wspierany przez jego twórców. W związku z tym pracujemy nad [przebudową](https://github.com/whiteravens20/wrservices.link/issues/41) aktualnej aplikacji oraz silnika odpowiedzialnego za udostępnianie plików. Zmiany mają na celu zapewnienie dalszego rozwoju, bezpieczeństwa oraz możliwości rozbudowy systemu w przyszłości.
 
 !!! tip "Link"
-    [White Ravens FileShare](https://fileshare.wrservices.link/)
+    Usługa zostanie zintegrowana w jeden serwis do udostępniania plików, linków i kodu - [White Ravens ShareHub](https://share.wrservices.link/) [BETA]
 
 ## Co to jest Pingvin Share?
 
