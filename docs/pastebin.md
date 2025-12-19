@@ -3,6 +3,7 @@ tags:
   - pastebin
   - self-hosted
   - prywatnosc
+status: deprecated
 ---
 
 # White Ravens PasteBin
@@ -10,7 +11,7 @@ tags:
 White Ravens PasteBin to narzędzie do udostępniania tekstu, oparte na [PrivateBin](https://privatebin.info/). Umożliwia ono bezpieczne dzielenie się fragmentami kodu, notatkami czy innymi informacjami, zapewniając pełną kontrolę nad prywatnością danych.
 
 !!! tip "Link"
-    [White Ravens PasteBin](https://pastebin.wrservices.link/)
+    Usługa zostanie zintegrowana w jeden serwis do udostępniania plików, linków i kodu - [White Ravens ShareHub](https://share.wrservices.link/) [BETA]
 
 ## Co to jest PrivateBin?
 
