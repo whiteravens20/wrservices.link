@@ -16,13 +16,13 @@ White Ravens ShareHub to usługa oparta na [Zipline](https://zipline.diced.sh/) 
     [White Ravens ShareHub](https://share.wrservices.link/)
 
 W ramach jednej platformy dostępne są:
+
 - udostępnianie plików,
 - skracanie linków (URL shortener),
 - pastebin do publikowania tekstu i logów.
 
 !!! info "Informacja"
-    Korzystanie z White Ravens ShareHub wymaga **logowania**.  
-    Maksymalny rozmiar pojedynczego pliku wynosi **2 GB**.
+    Korzystanie z White Ravens ShareHub wymaga **logowania**. Maksymalny rozmiar pojedynczego pliku wynosi **2 GB**.
 
 ## Zipline – co to jest?
 
@@ -31,7 +31,7 @@ Zipline to self-hostowana aplikacja typu „share”, umożliwiająca generowani
 ## Jak korzystać z White Ravens ShareHub
 
 !!! warning "Prawa autorskie"
-    Serwis **White Ravens ShareHub** {==nie zgadza się==} na udostępnianie plików naruszających prawa autorskie. Przed skorzystaniem z serwisu przeczytaj [korzystania](https://https://share.wrservices.link/auth/tos).
+    Serwis **White Ravens ShareHub** {==nie zgadza się==} na udostępnianie plików naruszających prawa autorskie. Przed skorzystaniem z serwisu przeczytaj [Warunki Użytkowania](https://share.wrservices.link/auth/tos).
 
 ### Przesyłanie plików
 1. Zaloguj się do White Ravens ShareHub.
