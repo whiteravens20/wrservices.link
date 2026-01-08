@@ -99,7 +99,7 @@ nav:
     - 'Usługi White Ravens':
       - 'Element Chat': chat.md
       - 'Metawyszukiwarka': search.md
-      - 'Filesharing': fileshare.md
+      - 'ShareHub': share.md
       - 'Pastebin': pastebin.md
       - 'Invidious': invidious.md
       - 'Habitica': habitica.md
