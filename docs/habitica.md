@@ -3,7 +3,6 @@ tags:
   - self-hosted
   - produktywnosc
   - social
-  - pomoc
 ---
 
 # White Ravens Habitica
@@ -70,11 +69,8 @@ Habitica to aplikacja, która {==przekształca codzienne obowiązki w grę==}. G
 - Eksploruj społeczność Habitica, dołączając do gildii, forów i grup tematycznych.
 - Korzystaj z integracji i dodatków, które mogą wspomóc Twoją organizację i motywację.
 
-!!! failure "Aplikacja mobilna"
-    *Na chwilę obecną* nie ma możliwości korzystania z oficjalnej aplikacji mobilnej Habitica, aby łączyć się z naszą instancją. Aplikacja działa jednak bez zarzutu przez przeglądarkę mobilną, co czyni ją wygodnym rozwiązaniem. Zachęcamy do korzystania z White Ravens Habitica właśnie w ten sposób – możesz łatwo dodać link do instancji jako skrót na ekranie głównym swojego telefonu, co zapewni szybki i intuicyjny dostęp do serwisu.
-
-??? youtube "Jak dodać skrót do strony na ekranie głównym telefonu Android"
-    <iframe width="760" height="415" src="https://www.youtube.com/embed/O1xEXKB6tNg?si=ETS4Tm4tpAvj4Vu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+!!! success "Aplikacja mobilna"
+    Obecnie możesz korzystać z aplikacji mobilnej na Androida umożliwiającej połączenie z instancją White Ravens. Jest to zmodyfikowana wersja aplikacji Habitica, dostępna w repozytorium [awinterstein/habitica-android](https://github.com/awinterstein/habitica-android). Najnowsze wydania znajdziesz [pod tym adresem](https://github.com/awinterstein/habitica-android/releases). Podczas logowania należy edytować adres serwera Habitica i ustawić go na [https://habitica.wrservices.link](https://habitica.wrservices.link). Po tej zmianie aplikacja będzie łączyć się bezpośrednio z instancją White Ravens.
 
 ### Podsumowanie
 Habitica to nie tylko lista zadań – to dynamiczna platforma, która przekształca codzienne obowiązki w angażującą grę. Dzięki systemowi nagród, wyzwań i interakcji społeczności, Habitica pozwala na osiąganie celów w sposób, który łączy produktywność z zabawą. To idealne narzędzie dla tych, którzy chcą podnieść swoją efektywność i uczynić codzienne obowiązki bardziej satysfakcjonującymi.

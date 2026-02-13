@@ -34,10 +34,12 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-  plugins:
-    - typeset
-    - search
-    - tags
+
+plugins:
+  - typeset
+  - search
+  - tags
+
 markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
@@ -91,7 +93,7 @@ nav:
       - 'Strona Główna': index.md
       - 'Zgłaszanie błędow': bugs.md
       - 'Bezpieczeństwo haseł': passwordsec.md
-#      - 'Tagi': tags.md
+      - 'Tagi': tags.md
     - 'Social':
       - 'Discord': discord.md
       - 'Mastodon': mastodon.md
