@@ -3,26 +3,30 @@ on:
   push:
     branches:
       - main
+
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      
-      - uses: actions/setup-python@v5
-        with:
-          python-version: 3.x
+      - uses: actions/setup-python@v6
       
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       
-      - uses: actions/cache@v4
+      - uses: actions/cache@v5
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
@@ -31,14 +35,17 @@ jobs:
       
       - run: pip install mkdocs-material
       
-      - run: mkdocs gh-deploy --force
+      - name: Build MkDocs site
+        run: mkdocs build
       
-      - name: Add CNAME file to gh-pages branch
-        run: |
-          git remote set-url origin "https://github-actions[bot]:${{ secrets.GITHUB_TOKEN }}@github.com/whiteravens20/wrservices.link.git"
-          git fetch origin gh-pages
-          git checkout gh-pages
-          echo "wrservices.link" > CNAME
-          git add CNAME
-          git commit -m "Add CNAME for custom domain" || echo "No changes to commit"
-          git push origin gh-pages
+      - name: Add CNAME file
+        run: echo "wrservices.link" > site/CNAME
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
