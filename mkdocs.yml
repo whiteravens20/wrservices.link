@@ -40,6 +40,9 @@ plugins:
   - search
   - tags
 
+hooks:
+  - hooks.py
+
 markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
