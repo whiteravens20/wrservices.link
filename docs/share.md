@@ -5,6 +5,7 @@ tags:
   - url-shortener
   - self-hosted
   - prywatnosc
+status: deprecated
 ---
 
 # White Ravens ShareHub
