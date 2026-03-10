@@ -87,7 +87,8 @@ extra:
     wrmembers: Wewnętrzna usługa White Ravens
     new: Ostatnio dodane
     deprecated: Wymaga aktualizacji
-copyright: Copyright &copy; 2024-2025 White Ravens 2.0
+# Copyright is dynamically set by hooks.py (on_config)
+copyright: Copyright &copy; 2024 White Ravens 2.0
 
 nav:
   - White Ravens Home: https://whiteravens.net
