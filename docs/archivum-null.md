@@ -11,7 +11,7 @@ status: new
 
 # White Ravens Archivum Null
 
-White Ravens Archivum Null to usługa oparta na Naszym autorskim projekcie [Archivum Null](https://github.com/whiteravens20/archivum-null) – minimalistycznym narzędziu do bezpiecznego udostępniania plików z szyfrowaniem po stronie klienta. Pliki są szyfrowane **w Twojej przeglądarce** zanim trafią na serwer — dzięki temu nikt, nawet administrator, nie może odczytać ich zawartości.
+White Ravens Archivum Null to usługa oparta na Naszym autorskim projekcie [Archivum Null](https://github.com/whiteravens20/archivum-null) – prostym narzędziu do bezpiecznego udostępniania plików. Pliki są szyfrowane **w Twojej przeglądarce** zanim trafią na serwer — dzięki temu nikt, nawet administrator, nie może odczytać ich zawartości.
 
 !!! tip "Link"
     [White Ravens Archivum Null](https://archivum.wrservices.link/)
@@ -38,7 +38,7 @@ graph LR
 ```
 
 !!! info "Gdzie jest klucz?"
-    Klucz szyfrowania jest częścią linku, umieszczoną po znaku `#` (tzw. fragment URL). Przeglądarki {==nigdy nie wysyłają==} tej części adresu do serwera — klucz istnieje wyłącznie u nadawcy i odbiorcy.
+    Klucz szyfrowania jest częścią linku (po znaku `#`). Przeglądarki {==nigdy nie wysyłają==} tej części adresu do serwera — klucz istnieje wyłącznie u nadawcy i odbiorcy.
 
 ---
 
@@ -68,7 +68,7 @@ Przed przesłaniem możesz dostosować ustawienia:
 
 Po kliknięciu przycisku przesyłania:
 
-1. Plik zostanie **zaszyfrowany w przeglądarce** algorytmem AES-256-GCM.
+1. Plik zostanie **zaszyfrowany w przeglądarce** silnym szyfrowaniem.
 2. Zaszyfrowane dane trafią na serwer.
 3. Otrzymasz **link do sejfu** — skopiuj go i wyślij odbiorcy.
 
@@ -97,18 +97,18 @@ Po kliknięciu przycisku przesyłania:
 
 | Serwer **przechowuje** | Serwer **nie zna** |
 |---|---|
-| Zaszyfrowane dane (ciphertext) | Oryginalną treść pliku |
-| Identyfikator sejfu (losowy) | Klucza szyfrowania |
+| Zaszyfrowane dane (nieczytelne) | Oryginalnej treści pliku |
+| Losowy identyfikator sejfu | Klucza szyfrowania |
 | Rozmiar zaszyfrowanego pliku | Oryginalnej nazwy pliku |
-| Datę utworzenia i wygaśnięcia | Tożsamości przesyłającego |
-| Licznik pobrań | Adresu IP (tylko tymczasowo w pamięci) |
+| Datę utworzenia i wygaśnięcia | Kim jest nadawca |
+| Licznik pobrań | — |
 
 ### Zastosowane zabezpieczenia
 
-- **AES-256-GCM** — szyfrowanie uwierzytelnione zapewniające poufność i integralność danych
-- **Unikalne klucze** — każdy plik szyfrowany jest osobnym, losowo wygenerowanym kluczem
-- **Szyfrowanie po stronie klienta** — dane opuszczają przeglądarkę wyłącznie w formie zaszyfrowanej
-- **Automatyczne usuwanie** — sejfy znikają po wygaśnięciu czasu życia lub limitu pobrań
+- :material-shield-lock: **Silne szyfrowanie** — dane są chronione najwyższej klasy szyfrowaniem (standard bankowy)
+- :material-key-variant: **Unikalne klucze** — każdy plik ma własny, losowo wygenerowany klucz
+- :material-laptop: **Szyfrowanie w przeglądarce** — dane opuszczają przeglądarkę wyłącznie w zaszyfrowanej formie
+- :material-delete-clock: **Automatyczne usuwanie** — sejfy znikają po wygaśnięciu czasu życia lub limitu pobrań
 
 ---
 
@@ -135,9 +135,6 @@ Po kliknięciu przycisku przesyłania:
 
 ??? question "Czy mogę przesłać wiele plików naraz?"
     Każdy plik tworzy osobny sejf z własnym linkiem. Przesyłaj pliki pojedynczo.
-
-??? question "Dlaczego przeglądarka pokazuje ostrzeżenie o certyfikacie?"
-    Jeśli korzystasz z instancji deweloperskiej (`localhost`), przeglądarka wyświetli ostrzeżenie o samopodpisanym certyfikacie. Instancja produkcyjna na [archivum.wrservices.link](https://archivum.wrservices.link/) posiada prawidłowy certyfikat TLS.
 
 ---
 
