@@ -8,50 +8,77 @@ tags:
 
 # Mastodon
 
-Mastodon to zdecentralizowana platforma mikroblogowa, która umożliwia użytkownikom publikowanie krótkich wiadomości (tzw. "toots") oraz nawiązywanie kontaktów w ramach federacyjnego ekosystemu. Dzięki swojej architekturze, Mastodon stanowi alternatywę dla tradycyjnych, scentralizowanych mediów społecznościowych, oferując większą kontrolę nad danymi i prywatnością.
-
-## Na czym polega Mastodon?
-
-- **Federacja:**  
-  Mastodon działa w oparciu o system federacji, gdzie różne instancje (serwery) mogą komunikować się między sobą. Dzięki temu użytkownicy z różnych instancji mogą swobodnie wymieniać się treściami.
-
-- **Mikroblogowanie:**  
-  Użytkownicy publikują krótkie wpisy, które mogą zawierać tekst, obrazy, filmy oraz linki. Wpisy te są ograniczone pod względem długości, co sprzyja zwięzłej i klarownej komunikacji.
-
-- **Interakcje:**  
-  Platforma umożliwia komentowanie, udostępnianie oraz lajkowanie wpisów, co pozwala na aktywną interakcję z innymi członkami społeczności.
-
-## Jak korzystać z Mastodon?
-
-- **Rejestracja i wybór instancji:**  
-   Wybierz instancję odpowiadającą Twoim potrzebom (np. tematycznie związana z technologią, gamingiem lub open source) i załóż konto.
-
-!!! info "Instancja Mastodon White Ravens"
-    Konto White Ravens stworzone jest na instancji [mastodon.social](https://mastodon.social/about). Jest to jeden z wielu niezależnych serwerów Mastodon, których możesz używać do uczestnictwa w fediverse. Nie ma znaczenia, którą instancję wybierzesz – zawsze kieruj się własnymi zainteresowaniami i prywatnością. Serwery [Fediwersum](https://fediverse.pl/jak-dziala-fediwersum/) komunikują się między sobą.
-
-- **Konfiguracja profilu:**  
-   Uzupełnij informacje o sobie, dodaj zdjęcie profilowe oraz krótki opis. Personalizacja profilu ułatwi nawiązywanie kontaktów.
-
-- **Publikowanie treści:**  
-   Twórz wpisy dotyczące tematów, które Cię interesują. Profil Mastodon White Ravens zawiera wpisy związane z open source, self hosting, nowościami ze świata technologii oraz gamingiem.
-
-- **Interakcja z innymi:**  
-   Obserwuj konta użytkowników o podobnych zainteresowaniach, komentuj ich wpisy oraz korzystaj z funkcji udostępniania treści, aby budować swoją sieć kontaktów.
-
-## Profil Mastodon White Ravens
+Mastodon to darmowa platforma społecznościowa — alternatywa dla X (dawniej Twitter). Działa podobnie: publikujesz krótkie wpisy, obserwujesz innych, komentujesz i udostępniasz treści. Kluczowa różnica? Mastodon **nie jest kontrolowany przez jedną firmę** — składa się z wielu niezależnych serwerów, które ze sobą współpracują.
 
 !!! tip "Profil White Ravens na Mastodon"
     [mastodon.social/@whiteravens](https://mastodon.social/@whiteravens)
 
-Profil Mastodon White Ravens to miejsce, w którym publikowane są:
+**Dlaczego Mastodon?**
 
-- **Informacje o open source i self hosting:**  
-  Aktualności, poradniki i dyskusje dotyczące technologii otwartoźródłowych oraz rozwiązań do samodzielnego hostingu.
+- :material-account-group: **Brak jednego właściciela** — żadna firma nie kontroluje platformy ani Twoich danych
+- :material-bullhorn-outline: **Brak reklam** — chronologiczna oś czasu bez algorytmów promujących treści
+- :material-shield-account: **Prywatność** — Ty decydujesz, kto widzi Twoje wpisy
+- :material-link-variant: **Fediverse** — możesz komunikować się z użytkownikami z innych serwerów Mastodon
 
-- **Nowości technologiczne:**  
-  Informacje o najnowszych trendach, innowacjach i ciekawostkach ze świata IT.
+---
 
-- **Gry i gaming:**  
-  Recenzje, nowości oraz dyskusje na temat gier, które pomogą Ci być na bieżąco z rynkiem gamingu.
+## Jak zacząć?
 
-Dołącz do naszej społeczności na Mastodon, aby być częścią otwartej i dynamicznej grupy entuzjastów technologii, open source oraz gamingu.
+### Krok 1: Wybierz instancję i załóż konto
+
+Mastodon to nie jedna strona — to sieć połączonych serwerów (tzw. instancji). Nie ma znaczenia, którą wybierzesz — będziesz mógł komunikować się ze wszystkimi użytkownikami.
+
+!!! info "Czym jest instancja?"
+    Instancja to po prostu serwer Mastodon prowadzony przez niezależną osobę lub organizację. To jak wybór operatora poczty — ktoś z Gmaila może pisać do kogoś na WP. Tak samo tu: użytkownicy różnych instancji widzą się nawzajem.
+
+Popularne instancje do wyboru:
+
+- [mastodon.social](https://mastodon.social/) — największa, ogólna instancja
+- [fosstodon.org](https://fosstodon.org/) — dla fanów open source
+- [101010.pl](https://101010.pl/) — polska instancja
+
+### Krok 2: Skonfiguruj profil
+
+Dodaj zdjęcie, krótki opis i zainteresowania — ułatwi to innym znalezienie Cię.
+
+### Krok 3: Obserwuj konta
+
+Zacznij od obserwowania [@whiteravens](https://mastodon.social/@whiteravens), a potem odkrywaj inne konta przez wyszukiwarkę lub lokalne i globalne osie czasu.
+
+### Krok 4: Publikuj i reaguj
+
+- **Wpis** — napisz coś (do 500 znaków) i opublikuj
+- :material-repeat: **Podbij** — udostępnij wpis innym (odpowiednik retweeta)
+- :material-star: **Polub** — pokaż, że Ci się podoba
+- :material-reply: **Odpowiedz** — dołącz do dyskusji
+
+---
+
+## Co publikuje White Ravens na Mastodon?
+
+Na profilu [@whiteravens](https://mastodon.social/@whiteravens) znajdziesz:
+
+- Nowości i aktualizacje usług White Ravens
+- Ciekawostki ze świata open source i self-hostingu
+- Informacje technologiczne i gamingowe
+- Dyskusje ze społecznością
+
+---
+
+## Najczęściej zadawane pytania
+
+??? question "Czy Mastodon jest darmowy?"
+    Tak, całkowicie. Nie ma żadnych opłat ani płatnych funkcji.
+
+??? question "Czy muszę wybrać tę samą instancję co White Ravens?"
+    Nie. Możesz założyć konto na dowolnej instancji — i tak będziesz mógł obserwować i pisać do konta White Ravens. To tak jak z e-mailem: nie musisz mieć konta u tego samego operatora.
+
+??? question "Czy mogę przenieść konto na inną instancję?"
+    Tak. Mastodon pozwala na migrację konta — Twoi obserwujący automatycznie przeniosą się za Tobą.
+
+??? question "Czym Mastodon różni się od X (Twittera)?"
+    Mastodon nie ma jednego właściciela, nie wyświetla reklam i nie manipuluje kolejnością wpisów algorytmami. Widzisz wpisy chronologicznie, od osób które obserwujesz.
+
+---
+
+Dołącz do społeczności White Ravens na Mastodon — obserwuj, komentuj i bądź częścią otwartej sieci społecznościowej!
