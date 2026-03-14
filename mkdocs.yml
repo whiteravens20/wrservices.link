@@ -50,7 +50,11 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
@@ -103,9 +107,9 @@ nav:
       - 'Mastodon': mastodon.md
       - 'Steam': steam.md
     - 'Usługi White Ravens':
+      - 'Archivum Null': archivum-null.md
       - 'Element Chat': chat.md
       - 'Metawyszukiwarka': search.md
-      - 'ShareHub': share.md
       - 'Invidious': invidious.md
       - 'Habitica': habitica.md
   - Dashboard: https://home.wrservices.link
