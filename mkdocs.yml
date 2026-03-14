@@ -110,6 +110,7 @@ nav:
       - 'Archivum Null': archivum-null.md
       - 'Element Chat': chat.md
       - 'Metawyszukiwarka': search.md
+      - 'PrivateBin': privatebin.md
       - 'Invidious': invidious.md
       - 'Habitica': habitica.md
   - Dashboard: https://home.wrservices.link
