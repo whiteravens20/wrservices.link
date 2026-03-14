@@ -25,12 +25,16 @@
   }
 
   /* Homepage hero intro */
-  .hero-intro {
+  .md-typeset .hero-intro {
     text-align: center;
     max-width: 720px;
-    margin: 1.5em auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    display: block;
   }
-  .hero-intro .md-button {
+  .md-typeset .hero-intro .md-button {
     margin: 0.2em;
     padding: 0.4em 1em;
     font-size: 0.75em;
