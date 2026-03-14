@@ -8,74 +8,77 @@ tags:
 
 # White Ravens Search
 
-White Ravens Search to projekt oparty na [searxng](https://github.com/searxng/searxng) – otwartoźródłowym silniku wyszukiwania, który stawia na prywatność użytkowników oraz niezależność w przeszukiwaniu zasobów internetu. Dzięki niemu możesz korzystać z wyników pochodzących z wielu różnych źródeł, bez obaw o śledzenie Twoich działań.
+White Ravens Search to prywatna wyszukiwarka internetowa oparta na projekcie [SearXNG](https://github.com/searxng/searxng). Działa jak Google czy Bing, ale **nie zbiera żadnych danych** o Tobie — nie śledzi Twoich wyszukiwań, nie wyświetla reklam i nie tworzy profilu reklamowego.
 
 !!! tip "Link"
     [White Ravens SearXNG](https://search.whiteravens.net/)
 
-## Co to jest searxng?
+**Najważniejsze cechy:**
 
-Searxng to nowoczesny, otwartoźródłowy silnik wyszukiwania, który działa jako agregator wyników. Jego główne zalety to:
-
-- **Prywatność:**  
-  Searxng nie zbiera danych o użytkownikach ani nie śledzi historii wyszukiwania.
-  
-- **Agregacja wyników:**  
-  Zapytania wysyłane są do wielu wyszukiwarek jednocześnie, co pozwala na uzyskanie obiektywnych i zróżnicowanych wyników.
-  
-- **Konfigurowalność:**  
-  Użytkownicy mogą dostosować źródła, z których pobierane są informacje, aby otrzymywać wyniki najbardziej odpowiadające ich potrzebom.
-
-## Jak działa searxng?
-
-1. **Przyjmowanie zapytań:**  
-   Użytkownik wpisuje zapytanie w polu wyszukiwania.
-   
-2. **Agregacja wyników:**  
-   Searxng przekazuje zapytanie do wybranych wyszukiwarek oraz baz danych. Następnie zbiera i łączy otrzymane wyniki w jeden, spójny wynik wyszukiwania.
-   
-3. **Prezentacja wyników:**  
-   Wyniki są wyświetlane w przejrzystej formie, umożliwiając łatwe przeglądanie oraz filtrowanie wyników według preferencji użytkownika.
-
-## Jak ustawić searxng jako domyślną wyszukiwarkę?
-
-Poniżej znajdziesz instrukcje, jak skonfigurować searxng jako domyślną wyszukiwarkę w popularnych przeglądarkach internetowych.
-
-### Google Chrome
-
-1. Otwórz przeglądarkę i przejdź do ustawień, wpisując w pasku adresu: `chrome://settings/`
-2. Przejdź do sekcji **Wyszukiwarka**.
-3. Kliknij **Zarządzaj wyszukiwarkami i witrynami**.
-4. W sekcji **Wyszukiwarki** kliknij przycisk **Dodaj**.
-5. Wypełnij pola:
-   - **Nazwa:** np. "Searxng"
-   - **Słowo kluczowe:** np. "sx"
-   - **URL z %s zamiast zapytania:**  
-     `https://search.whiteravens.net/search?q=%s`
-6. Po dodaniu, kliknij przycisk z trzema kropkami obok nowej wyszukiwarki i wybierz **Ustaw jako domyślną**.
-
-### Mozilla Firefox
-
-1. Otwórz przeglądarkę i przejdź do **Ustawień** (menu → Opcje/Preferencje).
-2. Przejdź do zakładki **Wyszukiwarka**.
-3. Kliknij **Znajdź więcej wyszukiwarek** lub **Dodaj wyszukiwarkę** (w zależności od wersji przeglądarki).
-4. Dodaj nowy silnik, wpisując URL wyszukiwania:
-   `https://search.whiteravens.net/search?q=%s`
-5. Po dodaniu, wybierz searxng jako domyślną wyszukiwarkę.
-
-### Microsoft Edge
-
-1. Otwórz Edge i wejdź w ustawienia, wpisując: `edge://settings/`
-2. Przejdź do sekcji **Prywatność, wyszukiwanie i usługi**.
-3. Znajdź opcję **Adres paska adresu i wyszukiwanie**.
-4. Kliknij **Zarządzaj wyszukiwarkami**.
-5. Dodaj nową wyszukiwarkę, podając:
-   - **Nazwa:** np. "Searxng"
-   - **Słowo kluczowe:** np. "sx"
-   - **URL wyszukiwania:**  
-     `https://search.whiteravens.net/search?q=%s`
-6. Ustaw nowo dodaną wyszukiwarkę jako domyślną.
+- :material-shield-account: **Pełna prywatność** — brak śledzenia, brak zbierania danych, brak reklam
+- :material-magnify: **Wyniki z wielu źródeł** — wyszukiwarka pobiera wyniki z Google, Bing, DuckDuckGo i wielu innych jednocześnie
+- :material-cog: **Konfigurowalne** — możesz wybrać, z których wyszukiwarek mają pochodzić wyniki
+- :material-account-off: **Bez rejestracji** — korzystaj od razu, bez zakładania konta
 
 ---
 
-White Ravens Search, oparty na searxng, to niezależne i przyjazne dla prywatności narzędzie wyszukiwania, które daje pełną kontrolę nad wynikami. Dzięki łatwej konfiguracji w popularnych przeglądarkach, możesz cieszyć się spersonalizowanym wyszukiwaniem na co dzień.
+## Jak korzystać?
+
+1. Wejdź na [White Ravens SearXNG](https://search.whiteravens.net/).
+2. Wpisz szukaną frazę w pole wyszukiwania.
+3. Przeglądaj wyniki — możesz je filtrować po kategoriach (strony, obrazy, wideo, wiadomości itp.).
+
+!!! info "Czym to się różni od Google?"
+    Zwykłe wyszukiwarki zapisują każde Twoje zapytanie i tworzą profil, aby wyświetlać spersonalizowane reklamy. SearXNG nie zapisuje nic — po zamknięciu przeglądarki nie zostaje żaden ślad.
+
+---
+
+## Jak ustawić jako domyślną wyszukiwarkę?
+
+Aby nie musieć ręcznie wchodzić na stronę za każdym razem, możesz ustawić SearXNG jako domyślną wyszukiwarkę w przeglądarce.
+
+=== "Google Chrome"
+
+    1. Wpisz w pasku adresu: `chrome://settings/searchEngines`
+    2. Kliknij **Dodaj** w sekcji „Wyszukiwarki".
+    3. Wypełnij pola:
+        - **Nazwa:** `SearXNG`
+        - **Słowo kluczowe:** `sx`
+        - **URL:** `https://search.whiteravens.net/search?q=%s`
+    4. Kliknij trzy kropki :material-dots-vertical: obok dodanej wyszukiwarki → **Ustaw jako domyślną**.
+
+=== "Mozilla Firefox"
+
+    1. Otwórz **Ustawienia** → zakładka **Wyszukiwarka**.
+    2. Kliknij **Znajdź więcej wyszukiwarek** lub **Dodaj wyszukiwarkę**.
+    3. Wpisz URL: `https://search.whiteravens.net/search?q=%s`
+    4. Wybierz SearXNG jako domyślną wyszukiwarkę.
+
+=== "Microsoft Edge"
+
+    1. Wpisz w pasku adresu: `edge://settings/searchEngines`
+    2. Kliknij **Dodaj** i wypełnij:
+        - **Nazwa:** `SearXNG`
+        - **Słowo kluczowe:** `sx`
+        - **URL:** `https://search.whiteravens.net/search?q=%s`
+    3. Ustaw jako domyślną wyszukiwarkę.
+
+---
+
+## Najczęściej zadawane pytania
+
+??? question "Czy wyniki są gorsze niż w Google?"
+    Nie — SearXNG pobiera wyniki z Google i wielu innych wyszukiwarek jednocześnie, więc często otrzymujesz nawet bardziej zróżnicowane rezultaty.
+
+??? question "Czy muszę się rejestrować?"
+    Nie. Wyszukiwarka działa od razu, bez konta i bez logowania.
+
+??? question "Czy moje wyszukiwania są gdzieś zapisywane?"
+    Nie. SearXNG nie prowadzi żadnych logów wyszukiwań ani nie przechowuje historii.
+
+??? question "Czy mogę wybrać, z których źródeł pobierane są wyniki?"
+    Tak. W ustawieniach wyszukiwarki możesz włączać i wyłączać poszczególne źródła wyników.
+
+---
+
+White Ravens Search to prywatna, wolna od reklam wyszukiwarka, która daje Ci pełną kontrolę nad tym, skąd pochodzą wyniki — bez śledzenia i bez zbierania danych.
