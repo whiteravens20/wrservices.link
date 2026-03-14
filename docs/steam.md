@@ -2,6 +2,8 @@
 tags:
   - steam
   - social
+  - gaming
+  - community
 ---
 
 # Steam

@@ -1,8 +1,8 @@
 ---
 tags:
   - github
-  - bugi
-  - pomoc
+  - bug-report
+  - guide
 ---
 
 # Jak zgłaszać błędy na GitHub - Pełny Tutorial

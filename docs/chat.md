@@ -2,7 +2,9 @@
 tags:
   - chat
   - self-hosted
-  - prywatnosc
+  - privacy
+  - matrix
+  - encryption
 ---
 
 # Chat White Ravens

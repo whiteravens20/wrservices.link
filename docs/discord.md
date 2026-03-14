@@ -2,7 +2,8 @@
 tags:
   - discord
   - social
-  - pomoc
+  - community
+  - gaming
 ---
 
 # Discord

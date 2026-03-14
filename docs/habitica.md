@@ -1,7 +1,8 @@
 ---
 tags:
   - self-hosted
-  - produktywnosc
+  - productivity
+  - gamification
   - social
 ---
 

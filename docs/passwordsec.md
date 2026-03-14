@@ -1,6 +1,8 @@
 ---
 tags:
-  - bezpieczenstwo
+  - security
+  - passwords
+  - guide
 ---
 
 # Bezpieczeństwo Haseł: Przewodnik

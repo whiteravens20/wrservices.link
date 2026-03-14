@@ -3,7 +3,7 @@ tags:
   - invidious
   - youtube
   - self-hosted
-  - prywatnosc
+  - privacy
 ---
 
 # White Ravens Invidious

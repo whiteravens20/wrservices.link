@@ -2,8 +2,8 @@
 tags:
   - mastodon
   - social
-  - prywatnosc
-  - pomoc
+  - privacy
+  - fediverse
 ---
 
 # Mastodon

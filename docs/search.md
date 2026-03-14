@@ -1,8 +1,9 @@
 ---
 tags:
-  - wyszukiwarka
+  - search-engine
   - self-hosted
-  - prywatnosc
+  - privacy
+  - searxng
 ---
 
 # White Ravens Search
