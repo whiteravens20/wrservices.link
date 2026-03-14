@@ -59,6 +59,8 @@ markdown_extensions:
   - pymdownx.snippets
   - admonition
   - attr_list
+  - md_in_html
+  - def_list
   - pymdownx.tabbed:
       alternate_style: true
   - toc:
@@ -76,14 +78,19 @@ extra:
   social:
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@whiteravens
+      name: Mastodon
     - icon: fontawesome/brands/discord
       link: https://discord.gg/5JMk8Z4
+      name: Discord
     - icon: fontawesome/brands/steam
       link: https://steamcommunity.com/groups/whiteravensgaming
+      name: Steam
     - icon: fontawesome/brands/github 
       link: https://github.com/whiteravens20
+      name: GitHub
     - icon: simple/kofi
       link: https://ko-fi.com/N4N4E0LR2
+      name: Wesprzyj nas na Ko-fi
   analytics:
     provider: custom
 #    property:
@@ -98,7 +105,7 @@ nav:
   - White Ravens Home: https://whiteravens.net
   - Dokumentacja:
     - 'Strona Główna':
-      - 'Strona Główna': index.md
+      - 'Wprowadzenie': index.md
       - 'Zgłaszanie błędow': bugs.md
       - 'Bezpieczeństwo haseł': passwordsec.md
       - 'Tagi': tags.md
