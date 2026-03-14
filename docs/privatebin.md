@@ -10,7 +10,7 @@ status: new
 
 # White Ravens PrivateBin
 
-White Ravens PrivateBin to usługa oparta na projekcie [PrivateBin](https://privatebin.info/) – minimalistycznym, otwartoźródłowym pastebin, w którym serwer nie posiada żadnej wiedzy o przechowywanych danych. Treść jest szyfrowana i odszyfrowywana **wyłącznie w przeglądarce** za pomocą AES-256 w trybie [Galois/Counter Mode](https://pl.wikipedia.org/wiki/Galois/Counter_Mode).
+White Ravens PrivateBin to usługa oparta na projekcie [PrivateBin](https://privatebin.info/) – prostym, otwartoźródłowym narzędziu do bezpiecznego udostępniania tekstu. Treść jest szyfrowana i odszyfrowywana **wyłącznie w Twojej przeglądarce** — serwer nigdy nie widzi oryginalnej treści.
 
 !!! tip "Link"
     [White Ravens PrivateBin](https://privatebin.wrservices.link/)
@@ -28,7 +28,7 @@ White Ravens PrivateBin to usługa oparta na projekcie [PrivateBin](https://priv
 
 ## Jak to działa?
 
-PrivateBin szyfruje treść bezpośrednio w przeglądarce, zanim dane trafią na serwer. Klucz szyfrowania jest częścią linku (fragment po `#`), który przeglądarki {==nigdy nie wysyłają==} w żądaniach HTTP.
+PrivateBin szyfruje treść bezpośrednio w przeglądarce, zanim dane trafią na serwer. Klucz szyfrowania jest częścią linku (po znaku `#`), który przeglądarki {==nigdy nie wysyłają==} do serwera.
 
 ```mermaid
 graph LR
@@ -50,9 +50,8 @@ Otwórz [White Ravens PrivateBin](https://privatebin.wrservices.link/) w przegl�
 
 Wklej lub wpisz tekst w głównym polu edycji. Może to być:
 
-- fragment kodu źródłowego,
-- logi z aplikacji,
 - notatki lub instrukcje,
+- fragmenty kodu lub logi,
 - dowolny tekst, którym chcesz się podzielić.
 
 ### Krok 3: Ustaw opcje
@@ -98,9 +97,9 @@ Przed wysłaniem dostosuj ustawienia wklejki:
 
 Po włączeniu opcji **Dyskusja** odbiorcy mogą dodawać komentarze do wklejki. Każdy komentarz jest szyfrowany w taki sam sposób jak oryginalna treść — serwer nie widzi ich zawartości.
 
-### Podświetlanie składni
+### Kolorowanie kodu
 
-Wybierając format **Kod źródłowy**, PrivateBin automatycznie podświetla składnię w zależności od wybranego języka programowania. Idealne do udostępniania fragmentów kodu.
+Wybierając format **Kod źródłowy**, PrivateBin automatycznie koloruje składnię kodu, co ułatwia jego czytanie. Przydatne, gdy udostępniasz fragmenty kodu innym osobom.
 
 ### Markdown
 
@@ -112,7 +111,7 @@ Format **Markdown** pozwala tworzyć sformatowane dokumenty z nagłówkami, list
 
 | Serwer **przechowuje** | Serwer **nie zna** |
 |---|---|
-| Zaszyfrowane dane (ciphertext) | Oryginalnej treści wklejki |
+| Zaszyfrowane dane (nieczytelne) | Oryginalnej treści wklejki |
 | Datę utworzenia i wygaśnięcia | Klucza szyfrowania |
 | Ustawienia wklejki | Hasła (jeśli ustawione) |
 
