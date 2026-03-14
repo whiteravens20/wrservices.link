@@ -8,45 +8,51 @@ tags:
 
 # Steam
 
-Steam to jedna z najpopularniejszych platform cyfrowej dystrybucji gier, która nie tylko umożliwia zakup i instalację ulubionych tytułów, ale także oferuje rozbudowane funkcje społecznościowe. Dzięki grupom i społecznościom użytkownicy mogą dzielić się swoimi doświadczeniami, wymieniać się informacjami oraz organizować wspólne sesje rozgrywki.
+Steam to najpopularniejsza platforma do kupowania i grania w gry na komputerze. Oprócz sklepu z grami oferuje rozbudowane funkcje społecznościowe — grupy, fora, czaty i organizowanie wspólnych rozgrywek. White Ravens posiada własną grupę na Steam!
 
-## Grupy i społeczności na Steam
+!!! tip "Dołącz do grupy"
+    [White Ravens Gaming na Steam](https://steamcommunity.com/groups/whiteravensgaming)
 
-- **Grupy Steam:**  
-  Grupy to zamknięte lub otwarte społeczności, w których gracze o podobnych zainteresowaniach mogą dyskutować, planować wspólne akcje oraz dzielić się poradami i informacjami. Umożliwiają one budowanie relacji oraz organizowanie wydarzeń związanych z konkretnymi grami lub tematami.
+**Co oferuje nasza grupa:**
 
-- **Społeczności Steam:**  
-  Społeczności to przestrzenie, gdzie użytkownicy publikują posty, dzielą się opiniami i komentują treści innych graczy. Są idealnym miejscem do śledzenia najnowszych trendów, aktualności oraz dyskusji na tematy związane z gamingiem.
+- :material-controller-classic: **Wspólna rozgrywka** — znajdź partnerów do ulubionych gier
+- :material-forum: **Dyskusje** — rozmawiaj o grach, sprzęcie i nowościach
+- :material-calendar: **Wydarzenia** — organizowane sesje gamingowe
+- :material-account-group: **Społeczność** — dołącz do grupy graczy o podobnych zainteresowaniach
 
-## Jak korzystać z grup i społeczności na Steam?
+---
 
-**Dołączanie do grup i społeczności:**
+## Jak dołączyć?
 
-  1. Zaloguj się na swoje konto Steam i przejdź do sekcji "Społeczność".
-   
-  2. Skorzystaj z wyszukiwarki, aby znaleźć grupy lub społeczności odpowiadające Twoim zainteresowaniom.
-   
-  3. Kliknij przycisk "Dołącz" lub "Subskrybuj", aby stać się członkiem wybranej społeczności.
+### Krok 1: Załóż konto Steam
 
-**Interakcja:**
+Jeśli nie masz jeszcze konta, wejdź na [store.steampowered.com](https://store.steampowered.com/) i kliknij **Zainstaluj Steam** lub **Zaloguj się** → **Utwórz konto**.
 
-  1. Udzielaj się w dyskusjach, komentuj posty i dziel się swoimi doświadczeniami.
-   
-  2. Organizuj lub dołączaj do wspólnych sesji gier oraz wydarzeń społecznościowych.
-   
-  3. Obserwuj ogłoszenia i aktualności, aby być na bieżąco z nowościami ze świata gamingu.
+### Krok 2: Dołącz do grupy White Ravens
 
-## Społeczność White Ravens na Steam
+1. Wejdź na stronę [White Ravens Gaming](https://steamcommunity.com/groups/whiteravensgaming).
+2. Kliknij **Dołącz do grupy**.
+3. Gotowe — jesteś członkiem!
 
-!!! tip "White Ravens Steam Community"
-    [White Ravens Gaming](https://steamcommunity.com/groups/whiteravensgaming)
+### Krok 3: Korzystaj ze społeczności
 
-White Ravens posiada własne community na Steam, gdzie gromadzą się miłośnicy gier i technologii. W naszej społeczności możesz:
+- Przeglądaj dyskusje i wydarzenia na stronie grupy.
+- Sprawdź, kto z grupy jest aktualnie online i zagraj razem.
+- Dołączaj do organizowanych sesji gamingowych.
 
-- Znaleźć partnerów do wspólnej rozgrywki.
+---
 
-- Wymieniać się opiniami oraz poradami dotyczącymi najnowszych tytułów.
+## Najczęściej zadawane pytania
 
-- Otrzymać wsparcie i informacje na temat gier oraz innych serwisów WR.
+??? question "Czy Steam jest darmowy?"
+    Tak, konto Steam jest darmowe. Płacisz tylko za gry, które chcesz kupić (ale jest też wiele gier free-to-play).
 
-Dołącz do społeczności White Ravens na Steam i stań się częścią aktywnej grupy graczy, którzy dzielą się pasją do gier i technologii!
+??? question "Czy muszę instalować aplikację Steam?"
+    Do grania — tak, potrzebujesz klienta Steam na komputerze. Ale do przeglądania grupy i dyskusji wystarczy przeglądarka.
+
+??? question "Jak znaleźć innych członków White Ravens w grze?"
+    Po dołączeniu do grupy Steam zobaczysz listę członków. Możesz też sprawdzić, kto jest online i wysłać zaproszenie do gry.
+
+---
+
+Dołącz do White Ravens Gaming na Steam i graj razem z nami!
