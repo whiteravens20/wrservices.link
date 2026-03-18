@@ -20,8 +20,6 @@
 
 We believe in **open source, privacy and a free internet**. All our services are free, ad-free and open.
 
-> 🇵🇱 Strona dokumentacji jest w języku polskim.
-
 ## 📂 Documentation structure
 
 | Section | Links |
