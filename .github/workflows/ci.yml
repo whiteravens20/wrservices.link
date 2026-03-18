@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material mkdocs-static-i18n
 
       - name: Build MkDocs site (strict)
         run: mkdocs build --strict
