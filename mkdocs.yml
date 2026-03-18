@@ -3,7 +3,7 @@ theme:
   name: material
   custom_dir: overrides
   favicon: images/favicon.png
-  language: pl
+  language: en
   icon:
     logo: material/vector-difference
   palette: 
@@ -13,14 +13,14 @@ theme:
       accent: red
       toggle:
         icon: material/brightness-4
-        name: Tryb dzienny
+        name: Dark mode
     # Palette toggle for light mode
     - scheme: slate
       primary: teal
       accent: deep orange
       toggle:
         icon: material/brightness-7
-        name: Tryb nocny
+        name: Light mode
   features:
     - content.code.annotate
     - content.code.copy
@@ -36,6 +36,49 @@ theme:
     - search.suggest
 
 plugins:
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pl
+          name: Polski
+          build: true
+          theme:
+            language: pl
+            palette:
+              - scheme: default
+                primary: blue
+                accent: red
+                toggle:
+                  icon: material/brightness-4
+                  name: Tryb dzienny
+              - scheme: slate
+                primary: teal
+                accent: deep orange
+                toggle:
+                  icon: material/brightness-7
+                  name: Tryb nocny
+          nav_translations:
+            Documentation: Dokumentacja
+            Home: Strona Główna
+            Introduction: Wprowadzenie
+            Bug Reports: Zgłaszanie błędów
+            Password Security: Bezpieczeństwo haseł
+            Tags: Tagi
+            Social: Social
+            White Ravens Services: Usługi White Ravens
+            Archivum Null: Archivum Null
+            Element Chat: Element Chat
+            Meta Search: Metawyszukiwarka
+            PrivateBin: PrivateBin
+            Invidious: Invidious
+            Habitica: Habitica
+            Dashboard: Dashboard
+            Service Status: Status Usług
   - typeset
   - search
   - tags
@@ -74,7 +117,16 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/language-redirect.js
 extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Polski
+      link: /pl/
+      lang: pl
   social:
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@whiteravens
@@ -90,36 +142,36 @@ extra:
       name: GitHub
     - icon: simple/kofi
       link: https://ko-fi.com/N4N4E0LR2
-      name: Wesprzyj nas na Ko-fi
+      name: Support us on Ko-fi
   analytics:
     provider: custom
 #    property:
   status:
-    wrmembers: Wewnętrzna usługa White Ravens
-    new: Ostatnio dodane
-    deprecated: Wymaga aktualizacji
+    wrmembers: White Ravens internal service
+    new: Recently added
+    deprecated: Needs update
 # Copyright is dynamically set by hooks.py (on_config)
 copyright: Copyright &copy; 2024 White Ravens 2.0
 
 nav:
   - White Ravens Home: https://whiteravens.net
-  - Dokumentacja:
-    - 'Strona Główna':
-      - 'Wprowadzenie': index.md
-      - 'Zgłaszanie błędow': bugs.md
-      - 'Bezpieczeństwo haseł': passwordsec.md
-      - 'Tagi': tags.md
-    - 'Social':
-      - 'Discord': discord.md
-      - 'Mastodon': mastodon.md
-      - 'Steam': steam.md
-    - 'Usługi White Ravens':
-      - 'Archivum Null': archivum-null.md
-      - 'Element Chat': chat.md
-      - 'Metawyszukiwarka': search.md
-      - 'PrivateBin': privatebin.md
-      - 'Invidious': invidious.md
-      - 'Habitica': habitica.md
+  - Documentation:
+    - Home:
+      - Introduction: index.md
+      - Bug Reports: bugs.md
+      - Password Security: passwordsec.md
+      - Tags: tags.md
+    - Social:
+      - Discord: discord.md
+      - Mastodon: mastodon.md
+      - Steam: steam.md
+    - White Ravens Services:
+      - Archivum Null: archivum-null.md
+      - Element Chat: chat.md
+      - Meta Search: search.md
+      - PrivateBin: privatebin.md
+      - Invidious: invidious.md
+      - Habitica: habitica.md
   - Dashboard: https://home.wrservices.link
-  - Status Usług: https://status.wrservices.link
+  - Service Status: https://status.wrservices.link
   - GitHub: https://github.com/whiteravens20
