@@ -53,7 +53,7 @@ Otwórz [Archivum Null](https://archivum.wrservices.link/) w przeglądarce.
 Przeciągnij plik do okna przeglądarki lub kliknij, aby wybrać go z dysku.
 
 !!! warning "Maksymalny rozmiar pliku"
-    Maksymalny rozmiar pojedynczego pliku wynosi **100 MB**.
+    Maksymalny rozmiar pojedynczego pliku wynosi **1 GB**.
 
 ### Krok 3: Ustaw opcje sejfu
 
