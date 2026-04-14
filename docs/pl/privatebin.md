@@ -5,7 +5,6 @@ tags:
   - zero-knowledge
   - self-hosted
   - privacy
-status: new
 ---
 
 # White Ravens PrivateBin

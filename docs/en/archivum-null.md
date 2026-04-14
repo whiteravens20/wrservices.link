@@ -6,7 +6,6 @@ tags:
   - self-hosted
   - privacy
   - security
-status: new
 ---
 
 # White Ravens Archivum Null
