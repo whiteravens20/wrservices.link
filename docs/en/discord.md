@@ -13,6 +13,9 @@ Discord is a free platform for text, voice, and video conversations. The **White
 !!! tip "Join us"
     [White Ravens Discord invite link](https://discord.gg/5JMk8Z4)
 
+!!! warning "Language"
+    Our Discord server is run in **Polish**. Most conversations and channels are in Polish.
+
 **What you'll find on our server:**
 
 - :material-message-text: **Topic channels** — separate channels for games, technology, announcements, and casual conversations
