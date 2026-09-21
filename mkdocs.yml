@@ -82,6 +82,12 @@ plugins:
   - typeset
   - search
   - tags
+  # Fonts and any other outside asset are downloaded at build time and served
+  # from this site, so a visitor's browser never asks Google for them.
+  # GoatCounter's counter stays theirs, as the privacy policy describes.
+  - privacy:
+      assets_exclude:
+        - gc.zgo.at/*
 
 hooks:
   - hooks.py
