@@ -6,7 +6,7 @@
 [![Deploy](https://img.shields.io/github/actions/workflow/status/whiteravens20/wrservices.link/deploy.yml?label=deploy)](https://github.com/whiteravens20/wrservices.link/actions/workflows/deploy.yml)
 [![Issues](https://img.shields.io/github/issues-raw/whiteravens20/wrservices.link)](https://github.com/whiteravens20/wrservices.link/issues)
 [![Discord](https://img.shields.io/badge/Discord_PL-White%20Ravens-blue?logo=discord&labelColor=lightgrey)](https://discord.gg/5JMk8Z4)
-[![Ko-fi](https://img.shields.io/badge/Support_us-Ko--fi-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/N4N4E0LR2)
+[![Ko-fi](https://img.shields.io/badge/Support_us-Ko--fi-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/whiteravens20)
 
 **Source code for the White Ravens 2.0 services documentation site**
 

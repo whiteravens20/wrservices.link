@@ -58,6 +58,6 @@ Nie musisz być programistą, żeby wspierać tę ideę — wystarczy, że korzy
 
 :simple-kofi: **Podoba Ci się to, co robimy?** Możesz wesprzeć nasz rozwój — każda kwota się liczy!
 
-[:material-hand-heart: Wesprzyj nas na Ko-fi](https://ko-fi.com/N4N4E0LR2){ .md-button .md-button--primary }
+[:material-hand-heart: Wesprzyj nas na Ko-fi](https://ko-fi.com/whiteravens20){ .md-button .md-button--primary }
 
 </div>
