@@ -58,6 +58,6 @@ You don't need to be a developer to support this idea — it's enough to use ope
 
 :simple-kofi: **Like what we do?** You can support our development — every amount counts!
 
-[:material-hand-heart: Support us on Ko-fi](https://ko-fi.com/N4N4E0LR2){ .md-button .md-button--primary }
+[:material-hand-heart: Support us on Ko-fi](https://ko-fi.com/whiteravens20){ .md-button .md-button--primary }
 
 </div>
