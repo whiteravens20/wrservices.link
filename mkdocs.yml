@@ -84,10 +84,10 @@ plugins:
   - tags
   # Fonts and any other outside asset are downloaded at build time and served
   # from this site, so a visitor's browser never asks Google for them.
-  # GoatCounter's counter stays theirs, as the privacy policy describes.
+  # The visit counter's script stays on our own counter, stats.wrservices.link.
   - privacy:
       assets_exclude:
-        - gc.zgo.at/*
+        - stats.wrservices.link/*
 
 hooks:
   - hooks.py
