@@ -1,10 +1,4 @@
-<script data-goatcounter="https://wrservices.goatcounter.com/count" async src="//gc.zgo.at/count.js">
-
- /* var property = "{{ config.extra.analytics.property }}" */
-  
-    document.addEventListener("DOMContentLoaded", function() {
-      location$.subscribe(function(url) {
-
-      })
-    })
-</script>
+{#- The 404 page has no page object, which leaves it out of the visit count. -#}
+{% if page %}
+<script data-goatcounter="https://stats.wrservices.link/count" async src="https://stats.wrservices.link/count.js"></script>
+{% endif %}
