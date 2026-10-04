@@ -21,7 +21,7 @@ We prioritize privacy, free software, and full transparency — all our code is 
 
 ## :material-shield-check: What makes us different?
 
-- :material-eye-off: **Privacy** — we don't collect data, we don't track you, we don't profile you. Your data belongs to you.
+- :material-eye-off: **Privacy** — we collect as little as we can, we don't track you and we don't profile you. Each service's own policy says exactly what it keeps.
 - :material-lock: **Encryption** — wherever possible, data is encrypted in your browser before reaching the server.
 - :material-open-source-initiative: **Open Source** — all our project code is public. Anyone can review it, report a bug, or suggest improvements.
 - :material-currency-usd-off: **No costs** — all services are free. We maintain them through passion and community support.

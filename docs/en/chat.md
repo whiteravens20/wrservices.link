@@ -12,7 +12,7 @@ tags:
 White Ravens Chat is a private instant messenger based on [Element Web](https://element.io/). It works similarly to Messenger or WhatsApp, but with a key difference — all conversations are **end-to-end encrypted** and stored on a private White Ravens server, not with any corporation.
 
 !!! tip "Link"
-    [White Ravens Chat](https://chat.wrservices.link/)
+    [White Ravens Chat](https://chat.wrservices.link/) · [Terms of use and privacy policy](https://matrix.wrservices.link/_matrix/consent)
 
 **Key features:**
 
@@ -75,7 +75,7 @@ White Ravens Chat protects your conversations by default:
 ## Frequently asked questions
 
 ??? question "Is White Ravens Chat the same as WhatsApp / Messenger?"
-    Functionally, yes — you can send messages, share files, and make voice and video calls. The difference is that your data doesn't go to Meta, Google, or any other corporation — it's stored on a private White Ravens server.
+    Functionally, yes — you can send messages, share files, and make voice and video calls. The difference is that your messages don't go to Meta, Google, or any other corporation — they're stored on our own server.
 
 ??? question "Can I message people on other Matrix servers?"
     Yes! White Ravens Chat uses the Matrix protocol, which enables communication between different servers — similar to email (someone on Gmail can write to someone on Outlook).

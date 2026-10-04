@@ -21,7 +21,7 @@ Stawiamy na prywatność, wolne oprogramowanie i pełną przejrzystość — ca�
 
 ## :material-shield-check: Co nas wyróżnia?
 
-- :material-eye-off: **Prywatność** — nie zbieramy danych, nie śledzimy, nie profilujemy. Twoje dane należą do Ciebie.
+- :material-eye-off: **Prywatność** — zbieramy tak mało danych, jak się da, nie śledzimy i nie profilujemy. Polityka każdej usługi mówi dokładnie, co przechowuje.
 - :material-lock: **Szyfrowanie** — tam gdzie to możliwe, dane są szyfrowane w Twojej przeglądarce, zanim trafią na serwer.
 - :material-open-source-initiative: **Open Source** — cały kod naszych projektów jest publiczny. Każdy może go sprawdzić, zgłosić błąd lub zaproponować ulepszenie.
 - :material-currency-usd-off: **Bez kosztów** — wszystkie usługi są darmowe. Utrzymujemy je dzięki pasji i wsparciu społeczności.
