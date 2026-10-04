@@ -8,14 +8,14 @@ tags:
 
 # White Ravens Search
 
-White Ravens Search to prywatna wyszukiwarka internetowa oparta na projekcie [SearXNG](https://github.com/searxng/searxng). Działa jak Google czy Bing, ale **nie zbiera żadnych danych** o Tobie — nie śledzi Twoich wyszukiwań, nie wyświetla reklam i nie tworzy profilu reklamowego.
+White Ravens Search to prywatna wyszukiwarka internetowa oparta na projekcie [SearXNG](https://github.com/searxng/searxng). Działa jak Google czy Bing, ale **nie zapisuje historii Twoich wyszukiwań** — nie śledzi Cię, nie wyświetla reklam i nie tworzy profilu reklamowego.
 
 !!! tip "Link"
-    [White Ravens SearXNG](https://search.whiteravens.net/)
+    [White Ravens SearXNG](https://search.whiteravens.net/) · [Regulamin i prywatność](https://search.whiteravens.net/privacy)
 
 **Najważniejsze cechy:**
 
-- :material-shield-account: **Pełna prywatność** — brak śledzenia, brak zbierania danych, brak reklam
+- :material-shield-account: **Prywatność** — brak śledzenia, brak historii wyszukiwań, brak reklam
 - :material-magnify: **Wyniki z wielu źródeł** — wyszukiwarka pobiera wyniki z Google, Bing, DuckDuckGo i wielu innych jednocześnie
 - :material-cog: **Konfigurowalne** — możesz wybrać, z których wyszukiwarek mają pochodzić wyniki
 - :material-account-off: **Bez rejestracji** — korzystaj od razu, bez zakładania konta
@@ -29,7 +29,7 @@ White Ravens Search to prywatna wyszukiwarka internetowa oparta na projekcie [Se
 3. Przeglądaj wyniki — możesz je filtrować po kategoriach (strony, obrazy, wideo, wiadomości itp.).
 
 !!! info "Czym to się różni od Google?"
-    Zwykłe wyszukiwarki zapisują każde Twoje zapytanie i tworzą profil, aby wyświetlać spersonalizowane reklamy. SearXNG nie zapisuje nic — po zamknięciu przeglądarki nie zostaje żaden ślad.
+    Zwykłe wyszukiwarki zapisują każde Twoje zapytanie i tworzą profil, aby wyświetlać spersonalizowane reklamy. Nasza nie zapisuje historii zapytań i nie tworzy profilu.
 
 ---
 
@@ -74,11 +74,11 @@ Aby nie musieć ręcznie wchodzić na stronę za każdym razem, możesz ustawić
     Nie. Wyszukiwarka działa od razu, bez konta i bez logowania.
 
 ??? question "Czy moje wyszukiwania są gdzieś zapisywane?"
-    Nie. SearXNG nie prowadzi żadnych logów wyszukiwań ani nie przechowuje historii.
+    Nie. Nie przechowujemy historii wyszukiwań. Jak każdy serwer WWW, nasz zapisuje połączenia (adres IP i czas) ze względów bezpieczeństwa, ale nie to, czego szukasz; jedyny drobny wyjątek opisuje [regulamin](https://search.whiteravens.net/privacy).
 
 ??? question "Czy mogę wybrać, z których źródeł pobierane są wyniki?"
     Tak. W ustawieniach wyszukiwarki możesz włączać i wyłączać poszczególne źródła wyników.
 
 ---
 
-White Ravens Search to prywatna, wolna od reklam wyszukiwarka, która daje Ci pełną kontrolę nad tym, skąd pochodzą wyniki — bez śledzenia i bez zbierania danych.
+White Ravens Search to prywatna, wolna od reklam wyszukiwarka, która daje Ci pełną kontrolę nad tym, skąd pochodzą wyniki — bez śledzenia i bez historii wyszukiwań.
