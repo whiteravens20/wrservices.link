@@ -11,7 +11,7 @@ tags:
 White Ravens Habitica to darmowa aplikacja, która **zamienia codzienne zadania i nawyki w grę**. Oparta na platformie [Habitica](https://habitica.com/), ale hostowana prywatnie — bez reklam i bez płatnych funkcji dzięki repozytorium [awinterstein/habitica](https://github.com/awinterstein/habitica). Wszystkie opcje są dostępne za darmo.
 
 !!! tip "Link"
-    [White Ravens Habitica](https://habitica.wrservices.link/)
+    [White Ravens Habitica](https://habitica.wrservices.link/) · [Regulamin i polityka prywatności](https://habitica.wrservices.link/privacy)
 
 **Najważniejsze cechy:**
 
