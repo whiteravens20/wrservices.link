@@ -8,15 +8,18 @@ tags:
 
 # White Ravens Invidious
 
-White Ravens Invidious is an alternative way to watch YouTube videos — **without ads, without tracking, and without a Google account**. The service is based on the [Invidious](https://invidious.io/) project, which provides YouTube content through a lightweight, private interface.
+White Ravens Invidious is an alternative way to watch YouTube videos — **without ads, without YouTube's tracking scripts, and without a Google account**. The service is based on the [Invidious](https://invidious.io/) project, which provides YouTube content through a lightweight, private interface.
 
 !!! tip "Link"
-    [White Ravens Invidious](https://invid.wrservices.link/)
+    [White Ravens Invidious](https://invid.wrservices.link/) · [Terms of use and privacy policy](https://invid.wrservices.link/privacy)
+
+!!! info "What Google still sees"
+    By default your browser loads the video itself straight from Google's servers, so Google sees your IP address. To send it through our server instead, turn on **Proxy videos** in Preferences.
 
 **Key features:**
 
 - :material-advertisements-off: **No ads** — watch videos {==without ad interruptions==}
-- :material-shield-account: **Privacy** — no Google login required, no tracking
+- :material-shield-account: **Privacy** — no Google login, no YouTube scripts or cookies in your browser
 - :material-speedometer: **Lightweight interface** — fast loading, no unnecessary elements
 - :material-playlist-play: **Subscriptions** — follow your favorite channels without a Google account
 
@@ -69,7 +72,7 @@ If you have channels you follow on YouTube, you can easily transfer them to Invi
 ## Frequently asked questions
 
 ??? question "Is this legal?"
-    Yes. Invidious uses YouTube's public API. You're watching the same videos, just through a different interface — without ads and tracking.
+    Yes. Invidious uses YouTube's public API. You're watching the same videos, just through a different interface — without ads and without YouTube's scripts.
 
 ??? question "Do I need a Google account?"
     No. A Google account is not needed for browsing or watching videos. An account on our instance (optional) is only for saving subscriptions.
@@ -82,4 +85,4 @@ If you have channels you follow on YouTube, you can easily transfer them to Invi
 
 ---
 
-White Ravens Invidious is a private, ad-free way to watch YouTube — without tracking, without a Google account, and with full control over your subscriptions.
+White Ravens Invidious is an ad-free, more private way to watch YouTube — without a Google account and with full control over your subscriptions.

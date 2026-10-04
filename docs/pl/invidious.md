@@ -8,15 +8,18 @@ tags:
 
 # White Ravens Invidious
 
-White Ravens Invidious to alternatywny sposób oglądania filmów z YouTube — **bez reklam, bez śledzenia i bez konta Google**. Usługa oparta jest na projekcie [Invidious](https://invidious.io/), który udostępnia treści YouTube w lekkim, prywatnym interfejsie.
+White Ravens Invidious to alternatywny sposób oglądania filmów z YouTube — **bez reklam, bez skryptów śledzących YouTube i bez konta Google**. Usługa oparta jest na projekcie [Invidious](https://invidious.io/), który udostępnia treści YouTube w lekkim, prywatnym interfejsie.
 
 !!! tip "Link"
-    [White Ravens Invidious](https://invid.wrservices.link/)
+    [White Ravens Invidious](https://invid.wrservices.link/) · [Regulamin i polityka prywatności](https://invid.wrservices.link/privacy)
+
+!!! info "Co nadal widzi Google"
+    Domyślnie przeglądarka pobiera sam film prosto z serwerów Google, więc Google widzi Twój adres IP. Żeby film szedł przez nasz serwer, włącz w ustawieniach (Preferences) opcję **Proxy videos**.
 
 **Najważniejsze cechy:**
 
 - :material-advertisements-off: **Brak reklam** — oglądaj filmy {==bez przerywników reklamowych==}
-- :material-shield-account: **Prywatność** — nie musisz logować się kontem Google, brak śledzenia
+- :material-shield-account: **Prywatność** — bez logowania kontem Google, bez skryptów i ciasteczek YouTube w przeglądarce
 - :material-speedometer: **Lekki interfejs** — szybkie ładowanie, bez zbędnych elementów
 - :material-playlist-play: **Subskrypcje** — możesz śledzić ulubione kanały bez konta Google
 
@@ -69,7 +72,7 @@ Jeśli masz kanały, które obserwujesz na YouTube, możesz je łatwo przenieś�
 ## Najczęściej zadawane pytania
 
 ??? question "Czy to legalne?"
-    Tak. Invidious korzysta z publicznego API YouTube. Oglądasz te same filmy, tylko przez inny interfejs — bez reklam i śledzenia.
+    Tak. Invidious korzysta z publicznego API YouTube. Oglądasz te same filmy, tylko przez inny interfejs — bez reklam i bez skryptów YouTube.
 
 ??? question "Czy muszę mieć konto Google?"
     Nie. Konto Google nie jest potrzebne do przeglądania ani oglądania filmów. Konto na naszej instancji (opcjonalne) służy wyłącznie do zapisywania subskrypcji.
@@ -82,4 +85,4 @@ Jeśli masz kanały, które obserwujesz na YouTube, możesz je łatwo przenieś�
 
 ---
 
-White Ravens Invidious to prywatny, wolny od reklam sposób na oglądanie YouTube — bez śledzenia, bez konta Google i z pełną kontrolą nad swoimi subskrypcjami.
+White Ravens Invidious to wolny od reklam, bardziej prywatny sposób na oglądanie YouTube — bez konta Google i z pełną kontrolą nad swoimi subskrypcjami.

@@ -8,14 +8,14 @@ tags:
 
 # White Ravens Search
 
-White Ravens Search is a private internet search engine based on the [SearXNG](https://github.com/searxng/searxng) project. It works like Google or Bing, but **doesn't collect any data** about you — it doesn't track your searches, doesn't display ads, and doesn't create an advertising profile.
+White Ravens Search is a private internet search engine based on the [SearXNG](https://github.com/searxng/searxng) project. It works like Google or Bing, but **keeps no history of your searches** — it doesn't track you, doesn't display ads, and doesn't create an advertising profile.
 
 !!! tip "Link"
-    [White Ravens SearXNG](https://search.whiteravens.net/)
+    [White Ravens SearXNG](https://search.whiteravens.net/) · [Terms of use and privacy](https://search.whiteravens.net/privacy)
 
 **Key features:**
 
-- :material-shield-account: **Full privacy** — no tracking, no data collection, no ads
+- :material-shield-account: **Privacy** — no tracking, no search history, no ads
 - :material-magnify: **Results from multiple sources** — the search engine pulls results from Google, Bing, DuckDuckGo, and many others simultaneously
 - :material-cog: **Configurable** — you can choose which search engines the results come from
 - :material-account-off: **No registration** — use it right away, without creating an account
@@ -29,7 +29,7 @@ White Ravens Search is a private internet search engine based on the [SearXNG](h
 3. Browse the results — you can filter them by categories (websites, images, videos, news, etc.).
 
 !!! info "How is this different from Google?"
-    Regular search engines save every query and create a profile to display personalized ads. SearXNG saves nothing — after closing your browser, no trace remains.
+    Regular search engines save every query and create a profile to display personalized ads. Ours keeps no history of your queries and builds no profile.
 
 ---
 
@@ -74,11 +74,11 @@ To avoid manually going to the website every time, you can set SearXNG as the de
     No. The search engine works right away, without an account and without logging in.
 
 ??? question "Are my searches saved anywhere?"
-    No. SearXNG doesn't keep any search logs or store history.
+    No. We keep no search history. Like every web server, ours logs connections (IP address and time) to stay secure, but not what you searched for; the [terms](https://search.whiteravens.net/privacy) describe the one small exception.
 
 ??? question "Can I choose which sources the results come from?"
     Yes. In the search engine settings, you can enable and disable individual result sources.
 
 ---
 
-White Ravens Search is a private, ad-free search engine that gives you full control over where results come from — without tracking and without data collection.
+White Ravens Search is a private, ad-free search engine that gives you full control over where results come from — without tracking and without a search history.

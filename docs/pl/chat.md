@@ -12,7 +12,7 @@ tags:
 Chat White Ravens to prywatny komunikator internetowy oparty na [Element Web](https://element.io/). Działa podobnie jak Messenger czy WhatsApp, ale z kluczową różnicą — wszystkie rozmowy są **szyfrowane od nadawcy do odbiorcy** i przechowywane na prywatnym serwerze White Ravens, nie u żadnej korporacji.
 
 !!! tip "Link"
-    [Chat White Ravens](https://chat.wrservices.link/)
+    [Chat White Ravens](https://chat.wrservices.link/) · [Regulamin i polityka prywatności](https://matrix.wrservices.link/_matrix/consent)
 
 **Najważniejsze cechy:**
 
@@ -75,7 +75,7 @@ Chat White Ravens domyślnie chroni Twoje rozmowy:
 ## Najczęściej zadawane pytania
 
 ??? question "Czy Chat White Ravens to to samo co WhatsApp / Messenger?"
-    Funkcjonalnie tak — możesz pisać wiadomości, wysyłać pliki, prowadzić rozmowy głosowe i wideo. Różnica polega na tym, że Twoje dane nie trafiają do Meta, Google ani żadnej innej korporacji — są przechowywane na prywatnym serwerze White Ravens.
+    Funkcjonalnie tak — możesz pisać wiadomości, wysyłać pliki, prowadzić rozmowy głosowe i wideo. Różnica polega na tym, że Twoje wiadomości nie trafiają do Meta, Google ani żadnej innej korporacji — są przechowywane na naszym własnym serwerze.
 
 ??? question "Czy mogę pisać do osób z innych serwerów Matrix?"
     Tak! Chat White Ravens korzysta z protokołu Matrix, który umożliwia komunikację między różnymi serwerami — podobnie jak e-mail (ktoś z Gmaila może pisać do kogoś na WP).

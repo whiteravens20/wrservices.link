@@ -13,7 +13,7 @@ tags:
 White Ravens Archivum Null to usługa oparta na Naszym autorskim projekcie [Archivum Null](https://github.com/whiteravens20/archivum-null) – prostym narzędziu do bezpiecznego udostępniania plików. Pliki są szyfrowane **w Twojej przeglądarce** zanim trafią na serwer — dzięki temu nikt, nawet administrator, nie może odczytać ich zawartości.
 
 !!! tip "Link"
-    [White Ravens Archivum Null](https://archivum.wrservices.link/)
+    [White Ravens Archivum Null](https://archivum.wrservices.link/) · [Regulamin](https://archivum.wrservices.link/tos)
 
 **Najważniejsze cechy:**
 

@@ -12,7 +12,7 @@ tags:
 White Ravens PrivateBin is a service based on the [PrivateBin](https://privatebin.info/) project — a simple, open-source tool for securely sharing text. Content is encrypted and decrypted **exclusively in your browser** — the server never sees the original content.
 
 !!! tip "Link"
-    [White Ravens PrivateBin](https://privatebin.wrservices.link/)
+    [White Ravens PrivateBin](https://privatebin.wrservices.link/) · [Terms of use and privacy policy](https://privatebin.wrservices.link/privacy)
 
 **Key features:**
 
