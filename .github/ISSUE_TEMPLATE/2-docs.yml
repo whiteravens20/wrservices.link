@@ -10,7 +10,7 @@ body:
     id: description
     attributes:
       label: Update Description
-      placeholder: 'Example: "A Web Chat docs are out of date..."'
+      placeholder: 'Example: "The Archivum Null docs are out of date..."'
     validations:
       required: true
   - type: textarea
