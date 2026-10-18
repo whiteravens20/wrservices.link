@@ -33,7 +33,7 @@ We prioritize privacy, free software, and full transparency — all our code is 
 
 You can find our services and social platforms in the **navigation menu** on the left side (or in the top menu on mobile). Here are a few suggestions to get started:
 
-- :material-chat-processing: Want to chat? Check out our [**Element Chat**](chat.md) or drop by [**Discord**](discord.md).
+- :material-chat-processing: Want to chat? Drop by our [**Discord**](discord.md).
 - :material-lock: Want to securely share a file? Use [**Archivum Null**](archivum-null.md).
 - :material-magnify: Looking for something online without tracking? Try our [**Meta Search**](search.md).
 - :material-note-text: Need to quickly share text or code? [**PrivateBin**](privatebin.md) has you covered.

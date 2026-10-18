@@ -33,7 +33,7 @@ Stawiamy na prywatność, wolne oprogramowanie i pełną przejrzystość — ca�
 
 Nasze usługi i platformy społecznościowe znajdziesz w **menu nawigacji** po lewej stronie (lub w górnym menu na telefonie). Oto kilka propozycji na start:
 
-- :material-chat-processing: Chcesz porozmawiać? Sprawdź nasz [**Element Chat**](chat.md) lub wpadnij na [**Discorda**](discord.md).
+- :material-chat-processing: Chcesz porozmawiać? Wpadnij na naszego [**Discorda**](discord.md).
 - :material-lock: Chcesz bezpiecznie wysłać plik? Użyj [**Archivum Null**](archivum-null.md).
 - :material-magnify: Szukasz czegoś w internecie bez śledzenia? Wypróbuj naszą [**Metawyszukiwarkę**](search.md).
 - :material-note-text: Musisz szybko udostępnić tekst lub kod? [**PrivateBin**](privatebin.md) to załatwi.
