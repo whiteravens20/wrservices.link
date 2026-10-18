@@ -72,7 +72,6 @@ plugins:
             Social: Social
             White Ravens Services: Usługi White Ravens
             Archivum Null: Archivum Null
-            Element Chat: Element Chat
             Meta Search: Metawyszukiwarka
             PrivateBin: PrivateBin
             Invidious: Invidious
@@ -173,7 +172,6 @@ nav:
       - Steam: steam.md
     - White Ravens Services:
       - Archivum Null: archivum-null.md
-      - Element Chat: chat.md
       - Meta Search: search.md
       - PrivateBin: privatebin.md
       - Invidious: invidious.md
