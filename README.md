@@ -24,7 +24,7 @@ We believe in **open source, privacy and a free internet**. All our services are
 
 | Section | Links |
 |---|---|
-| **Services** | [Archivum Null](https://wrservices.link/archivum-null/) · [Element Chat](https://wrservices.link/chat/) · [Metasearch](https://wrservices.link/search/) · [PrivateBin](https://wrservices.link/privatebin/) · [Invidious](https://wrservices.link/invidious/) · [Habitica](https://wrservices.link/habitica/) |
+| **Services** | [Archivum Null](https://wrservices.link/archivum-null/) · [Metasearch](https://wrservices.link/search/) · [PrivateBin](https://wrservices.link/privatebin/) · [Invidious](https://wrservices.link/invidious/) · [Habitica](https://wrservices.link/habitica/) |
 | **Social** | [Discord](https://wrservices.link/discord/) · [Mastodon](https://wrservices.link/mastodon/) · [Steam](https://wrservices.link/steam/) |
 | **Other** | [Password Security](https://wrservices.link/passwordsec/) · [Bug Reporting](https://wrservices.link/bugs/) |
 
